@@ -1,0 +1,3001 @@
+TAS ME output :
+1 th time Thread : 2 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 2 in critical section at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 4 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 5 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 6 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 10 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 7 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 8 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 17 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 16 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 12 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 18 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 3 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 13 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 26 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 15 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 9 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 11 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 19 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 22 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 21 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 20 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 23 requested CS at Mon Feb 28 23:04:43 2022
+
+1 th time Thread : 25 requested CS at Mon Feb 28 23:04:44 2022
+
+1 th time Thread : 24 requested CS at Mon Feb 28 23:04:44 2022
+
+1 th time Thread : 14 requested CS at Mon Feb 28 23:04:44 2022
+
+1 th time Thread : 27 requested CS at Mon Feb 28 23:04:44 2022
+
+1 th time Thread : 28 requested CS at Mon Feb 28 23:04:44 2022
+
+1 th time Thread : 2 exit CS at Mon Feb 28 23:04:44 2022
+
+1 th time Thread : 6 in critical section at Mon Feb 28 23:04:44 2022
+
+1 th time Thread : 29 requested CS at Mon Feb 28 23:04:44 2022
+
+1 th time Thread : 30 requested CS at Mon Feb 28 23:04:45 2022
+
+1 th time Thread : 31 requested CS at Mon Feb 28 23:04:45 2022
+
+1 th time Thread : 32 requested CS at Mon Feb 28 23:04:45 2022
+
+1 th time Thread : 33 requested CS at Mon Feb 28 23:04:45 2022
+
+1 th time Thread : 34 requested CS at Mon Feb 28 23:04:45 2022
+
+1 th time Thread : 6 exit CS at Mon Feb 28 23:04:45 2022
+
+1 th time Thread : 20 in critical section at Mon Feb 28 23:04:45 2022
+
+1 th time Thread : 35 requested CS at Mon Feb 28 23:04:46 2022
+
+1 th time Thread : 36 requested CS at Mon Feb 28 23:04:46 2022
+
+1 th time Thread : 37 requested CS at Mon Feb 28 23:04:46 2022
+
+1 th time Thread : 38 requested CS at Mon Feb 28 23:04:46 2022
+
+2 th time Thread : 2 requested CS at Mon Feb 28 23:04:46 2022
+
+1 th time Thread : 39 requested CS at Mon Feb 28 23:04:47 2022
+
+1 th time Thread : 20 exit CS at Mon Feb 28 23:04:47 2022
+
+1 th time Thread : 27 in critical section at Mon Feb 28 23:04:47 2022
+
+1 th time Thread : 40 requested CS at Mon Feb 28 23:04:47 2022
+
+1 th time Thread : 41 requested CS at Mon Feb 28 23:04:47 2022
+
+1 th time Thread : 42 requested CS at Mon Feb 28 23:04:47 2022
+
+2 th time Thread : 6 requested CS at Mon Feb 28 23:04:48 2022
+
+1 th time Thread : 27 exit CS at Mon Feb 28 23:04:48 2022
+
+1 th time Thread : 39 in critical section at Mon Feb 28 23:04:48 2022
+
+1 th time Thread : 43 requested CS at Mon Feb 28 23:04:48 2022
+
+1 th time Thread : 44 requested CS at Mon Feb 28 23:04:48 2022
+
+1 th time Thread : 45 requested CS at Mon Feb 28 23:04:48 2022
+
+2 th time Thread : 20 requested CS at Mon Feb 28 23:04:49 2022
+
+1 th time Thread : 46 requested CS at Mon Feb 28 23:04:49 2022
+
+1 th time Thread : 39 exit CS at Mon Feb 28 23:04:49 2022
+
+1 th time Thread : 24 in critical section at Mon Feb 28 23:04:49 2022
+
+1 th time Thread : 47 requested CS at Mon Feb 28 23:04:49 2022
+
+1 th time Thread : 48 requested CS at Mon Feb 28 23:04:50 2022
+
+2 th time Thread : 27 requested CS at Mon Feb 28 23:04:50 2022
+
+1 th time Thread : 49 requested CS at Mon Feb 28 23:04:50 2022
+
+1 th time Thread : 24 exit CS at Mon Feb 28 23:04:50 2022
+
+1 th time Thread : 21 in critical section at Mon Feb 28 23:04:50 2022
+
+1 th time Thread : 50 requested CS at Mon Feb 28 23:04:50 2022
+
+1 th time Thread : 51 requested CS at Mon Feb 28 23:04:51 2022
+
+2 th time Thread : 39 requested CS at Mon Feb 28 23:04:51 2022
+
+1 th time Thread : 21 exit CS at Mon Feb 28 23:04:51 2022
+
+1 th time Thread : 26 in critical section at Mon Feb 28 23:04:51 2022
+
+2 th time Thread : 24 requested CS at Mon Feb 28 23:04:52 2022
+
+1 th time Thread : 26 exit CS at Mon Feb 28 23:04:53 2022
+
+2 th time Thread : 39 in critical section at Mon Feb 28 23:04:53 2022
+
+2 th time Thread : 21 requested CS at Mon Feb 28 23:04:54 2022
+
+2 th time Thread : 39 exit CS at Mon Feb 28 23:04:54 2022
+
+1 th time Thread : 7 in critical section at Mon Feb 28 23:04:54 2022
+
+2 th time Thread : 26 requested CS at Mon Feb 28 23:04:55 2022
+
+1 th time Thread : 7 exit CS at Mon Feb 28 23:04:55 2022
+
+1 th time Thread : 19 in critical section at Mon Feb 28 23:04:55 2022
+
+3 th time Thread : 39 requested CS at Mon Feb 28 23:04:56 2022
+
+1 th time Thread : 19 exit CS at Mon Feb 28 23:04:56 2022
+
+2 th time Thread : 21 in critical section at Mon Feb 28 23:04:56 2022
+
+2 th time Thread : 7 requested CS at Mon Feb 28 23:04:57 2022
+
+2 th time Thread : 21 exit CS at Mon Feb 28 23:04:57 2022
+
+1 th time Thread : 14 in critical section at Mon Feb 28 23:04:57 2022
+
+2 th time Thread : 19 requested CS at Mon Feb 28 23:04:58 2022
+
+1 th time Thread : 14 exit CS at Mon Feb 28 23:04:59 2022
+
+1 th time Thread : 25 in critical section at Mon Feb 28 23:04:59 2022
+
+3 th time Thread : 21 requested CS at Mon Feb 28 23:05:00 2022
+
+1 th time Thread : 25 exit CS at Mon Feb 28 23:05:00 2022
+
+1 th time Thread : 17 in critical section at Mon Feb 28 23:05:00 2022
+
+2 th time Thread : 14 requested CS at Mon Feb 28 23:05:01 2022
+
+1 th time Thread : 17 exit CS at Mon Feb 28 23:05:01 2022
+
+1 th time Thread : 36 in critical section at Mon Feb 28 23:05:01 2022
+
+2 th time Thread : 25 requested CS at Mon Feb 28 23:05:02 2022
+
+1 th time Thread : 36 exit CS at Mon Feb 28 23:05:02 2022
+
+1 th time Thread : 48 in critical section at Mon Feb 28 23:05:02 2022
+
+2 th time Thread : 17 requested CS at Mon Feb 28 23:05:03 2022
+
+1 th time Thread : 48 exit CS at Mon Feb 28 23:05:04 2022
+
+1 th time Thread : 12 in critical section at Mon Feb 28 23:05:04 2022
+
+2 th time Thread : 36 requested CS at Mon Feb 28 23:05:05 2022
+
+1 th time Thread : 12 exit CS at Mon Feb 28 23:05:05 2022
+
+1 th time Thread : 35 in critical section at Mon Feb 28 23:05:05 2022
+
+2 th time Thread : 48 requested CS at Mon Feb 28 23:05:06 2022
+
+1 th time Thread : 35 exit CS at Mon Feb 28 23:05:06 2022
+
+1 th time Thread : 44 in critical section at Mon Feb 28 23:05:06 2022
+
+2 th time Thread : 12 requested CS at Mon Feb 28 23:05:07 2022
+
+1 th time Thread : 44 exit CS at Mon Feb 28 23:05:07 2022
+
+1 th time Thread : 15 in critical section at Mon Feb 28 23:05:07 2022
+
+2 th time Thread : 35 requested CS at Mon Feb 28 23:05:08 2022
+
+1 th time Thread : 15 exit CS at Mon Feb 28 23:05:08 2022
+
+1 th time Thread : 8 in critical section at Mon Feb 28 23:05:08 2022
+
+2 th time Thread : 44 requested CS at Mon Feb 28 23:05:09 2022
+
+1 th time Thread : 8 exit CS at Mon Feb 28 23:05:10 2022
+
+1 th time Thread : 51 in critical section at Mon Feb 28 23:05:10 2022
+
+2 th time Thread : 15 requested CS at Mon Feb 28 23:05:11 2022
+
+1 th time Thread : 51 exit CS at Mon Feb 28 23:05:11 2022
+
+1 th time Thread : 43 in critical section at Mon Feb 28 23:05:11 2022
+
+2 th time Thread : 8 requested CS at Mon Feb 28 23:05:12 2022
+
+1 th time Thread : 43 exit CS at Mon Feb 28 23:05:12 2022
+
+1 th time Thread : 31 in critical section at Mon Feb 28 23:05:12 2022
+
+2 th time Thread : 51 requested CS at Mon Feb 28 23:05:13 2022
+
+1 th time Thread : 31 exit CS at Mon Feb 28 23:05:13 2022
+
+2 th time Thread : 35 in critical section at Mon Feb 28 23:05:13 2022
+
+2 th time Thread : 43 requested CS at Mon Feb 28 23:05:14 2022
+
+2 th time Thread : 35 exit CS at Mon Feb 28 23:05:14 2022
+
+2 th time Thread : 8 in critical section at Mon Feb 28 23:05:14 2022
+
+2 th time Thread : 31 requested CS at Mon Feb 28 23:05:15 2022
+
+2 th time Thread : 8 exit CS at Mon Feb 28 23:05:16 2022
+
+2 th time Thread : 20 in critical section at Mon Feb 28 23:05:16 2022
+
+3 th time Thread : 35 requested CS at Mon Feb 28 23:05:17 2022
+
+2 th time Thread : 20 exit CS at Mon Feb 28 23:05:17 2022
+
+3 th time Thread : 39 in critical section at Mon Feb 28 23:05:17 2022
+
+3 th time Thread : 8 requested CS at Mon Feb 28 23:05:18 2022
+
+3 th time Thread : 39 exit CS at Mon Feb 28 23:05:18 2022
+
+2 th time Thread : 27 in critical section at Mon Feb 28 23:05:18 2022
+
+3 th time Thread : 20 requested CS at Mon Feb 28 23:05:19 2022
+
+2 th time Thread : 27 exit CS at Mon Feb 28 23:05:19 2022
+
+2 th time Thread : 12 in critical section at Mon Feb 28 23:05:19 2022
+
+4 th time Thread : 39 requested CS at Mon Feb 28 23:05:20 2022
+
+2 th time Thread : 12 exit CS at Mon Feb 28 23:05:20 2022
+
+2 th time Thread : 36 in critical section at Mon Feb 28 23:05:20 2022
+
+3 th time Thread : 27 requested CS at Mon Feb 28 23:05:21 2022
+
+2 th time Thread : 36 exit CS at Mon Feb 28 23:05:22 2022
+
+1 th time Thread : 30 in critical section at Mon Feb 28 23:05:22 2022
+
+3 th time Thread : 12 requested CS at Mon Feb 28 23:05:23 2022
+
+1 th time Thread : 30 exit CS at Mon Feb 28 23:05:23 2022
+
+1 th time Thread : 13 in critical section at Mon Feb 28 23:05:23 2022
+
+3 th time Thread : 36 requested CS at Mon Feb 28 23:05:24 2022
+
+1 th time Thread : 13 exit CS at Mon Feb 28 23:05:24 2022
+
+1 th time Thread : 49 in critical section at Mon Feb 28 23:05:24 2022
+
+2 th time Thread : 30 requested CS at Mon Feb 28 23:05:25 2022
+
+1 th time Thread : 49 exit CS at Mon Feb 28 23:05:25 2022
+
+2 th time Thread : 48 in critical section at Mon Feb 28 23:05:25 2022
+
+2 th time Thread : 13 requested CS at Mon Feb 28 23:05:26 2022
+
+2 th time Thread : 48 exit CS at Mon Feb 28 23:05:26 2022
+
+1 th time Thread : 34 in critical section at Mon Feb 28 23:05:26 2022
+
+2 th time Thread : 49 requested CS at Mon Feb 28 23:05:27 2022
+
+1 th time Thread : 34 exit CS at Mon Feb 28 23:05:28 2022
+
+2 th time Thread : 6 in critical section at Mon Feb 28 23:05:28 2022
+
+3 th time Thread : 48 requested CS at Mon Feb 28 23:05:29 2022
+
+2 th time Thread : 6 exit CS at Mon Feb 28 23:05:29 2022
+
+2 th time Thread : 51 in critical section at Mon Feb 28 23:05:29 2022
+
+2 th time Thread : 34 requested CS at Mon Feb 28 23:05:30 2022
+
+2 th time Thread : 51 exit CS at Mon Feb 28 23:05:30 2022
+
+1 th time Thread : 32 in critical section at Mon Feb 28 23:05:30 2022
+
+3 th time Thread : 6 requested CS at Mon Feb 28 23:05:31 2022
+
+1 th time Thread : 32 exit CS at Mon Feb 28 23:05:31 2022
+
+1 th time Thread : 42 in critical section at Mon Feb 28 23:05:31 2022
+
+3 th time Thread : 51 requested CS at Mon Feb 28 23:05:32 2022
+
+1 th time Thread : 42 exit CS at Mon Feb 28 23:05:33 2022
+
+1 th time Thread : 45 in critical section at Mon Feb 28 23:05:33 2022
+
+2 th time Thread : 32 requested CS at Mon Feb 28 23:05:33 2022
+
+1 th time Thread : 45 exit CS at Mon Feb 28 23:05:34 2022
+
+2 th time Thread : 32 in critical section at Mon Feb 28 23:05:34 2022
+
+2 th time Thread : 42 requested CS at Mon Feb 28 23:05:35 2022
+
+2 th time Thread : 32 exit CS at Mon Feb 28 23:05:35 2022
+
+2 th time Thread : 7 in critical section at Mon Feb 28 23:05:35 2022
+
+2 th time Thread : 45 requested CS at Mon Feb 28 23:05:36 2022
+
+2 th time Thread : 7 exit CS at Mon Feb 28 23:05:36 2022
+
+4 th time Thread : 39 in critical section at Mon Feb 28 23:05:36 2022
+
+3 th time Thread : 32 requested CS at Mon Feb 28 23:05:37 2022
+
+4 th time Thread : 39 exit CS at Mon Feb 28 23:05:38 2022
+
+2 th time Thread : 14 in critical section at Mon Feb 28 23:05:38 2022
+
+3 th time Thread : 7 requested CS at Mon Feb 28 23:05:39 2022
+
+2 th time Thread : 14 exit CS at Mon Feb 28 23:05:39 2022
+
+3 th time Thread : 27 in critical section at Mon Feb 28 23:05:39 2022
+
+5 th time Thread : 39 requested CS at Mon Feb 28 23:05:40 2022
+
+3 th time Thread : 27 exit CS at Mon Feb 28 23:05:40 2022
+
+1 th time Thread : 47 in critical section at Mon Feb 28 23:05:40 2022
+
+3 th time Thread : 14 requested CS at Mon Feb 28 23:05:41 2022
+
+1 th time Thread : 47 exit CS at Mon Feb 28 23:05:41 2022
+
+1 th time Thread : 16 in critical section at Mon Feb 28 23:05:41 2022
+
+4 th time Thread : 27 requested CS at Mon Feb 28 23:05:42 2022
+
+1 th time Thread : 16 exit CS at Mon Feb 28 23:05:42 2022
+
+2 th time Thread : 43 in critical section at Mon Feb 28 23:05:42 2022
+
+2 th time Thread : 47 requested CS at Mon Feb 28 23:05:43 2022
+
+2 th time Thread : 43 exit CS at Mon Feb 28 23:05:44 2022
+
+2 th time Thread : 44 in critical section at Mon Feb 28 23:05:44 2022
+
+2 th time Thread : 16 requested CS at Mon Feb 28 23:05:45 2022
+
+2 th time Thread : 44 exit CS at Mon Feb 28 23:05:45 2022
+
+3 th time Thread : 14 in critical section at Mon Feb 28 23:05:45 2022
+
+3 th time Thread : 43 requested CS at Mon Feb 28 23:05:46 2022
+
+2 th time Thread : 42 in critical section at Mon Feb 28 23:05:46 2022
+
+3 th time Thread : 14 exit CS at Mon Feb 28 23:05:46 2022
+
+3 th time Thread : 44 requested CS at Mon Feb 28 23:05:47 2022
+
+2 th time Thread : 42 exit CS at Mon Feb 28 23:05:47 2022
+
+2 th time Thread : 45 in critical section at Mon Feb 28 23:05:47 2022
+
+4 th time Thread : 14 requested CS at Mon Feb 28 23:05:48 2022
+
+2 th time Thread : 45 exit CS at Mon Feb 28 23:05:48 2022
+
+1 th time Thread : 9 in critical section at Mon Feb 28 23:05:48 2022
+
+3 th time Thread : 42 requested CS at Mon Feb 28 23:05:49 2022
+
+1 th time Thread : 9 exit CS at Mon Feb 28 23:05:50 2022
+
+1 th time Thread : 3 in critical section at Mon Feb 28 23:05:50 2022
+
+3 th time Thread : 45 requested CS at Mon Feb 28 23:05:51 2022
+
+1 th time Thread : 3 exit CS at Mon Feb 28 23:05:51 2022
+
+1 th time Thread : 4 in critical section at Mon Feb 28 23:05:51 2022
+
+2 th time Thread : 9 requested CS at Mon Feb 28 23:05:52 2022
+
+1 th time Thread : 4 exit CS at Mon Feb 28 23:05:52 2022
+
+4 th time Thread : 27 in critical section at Mon Feb 28 23:05:52 2022
+
+2 th time Thread : 3 requested CS at Mon Feb 28 23:05:53 2022
+
+4 th time Thread : 27 exit CS at Mon Feb 28 23:05:53 2022
+
+1 th time Thread : 23 in critical section at Mon Feb 28 23:05:53 2022
+
+2 th time Thread : 4 requested CS at Mon Feb 28 23:05:54 2022
+
+1 th time Thread : 23 exit CS at Mon Feb 28 23:05:54 2022
+
+2 th time Thread : 19 in critical section at Mon Feb 28 23:05:55 2022
+
+5 th time Thread : 27 requested CS at Mon Feb 28 23:05:55 2022
+
+2 th time Thread : 19 exit CS at Mon Feb 28 23:05:56 2022
+
+1 th time Thread : 40 in critical section at Mon Feb 28 23:05:56 2022
+
+2 th time Thread : 23 requested CS at Mon Feb 28 23:05:57 2022
+
+1 th time Thread : 40 exit CS at Mon Feb 28 23:05:57 2022
+
+1 th time Thread : 11 in critical section at Mon Feb 28 23:05:57 2022
+
+3 th time Thread : 19 requested CS at Mon Feb 28 23:05:58 2022
+
+1 th time Thread : 11 exit CS at Mon Feb 28 23:05:58 2022
+
+1 th time Thread : 18 in critical section at Mon Feb 28 23:05:58 2022
+
+2 th time Thread : 40 requested CS at Mon Feb 28 23:05:59 2022
+
+1 th time Thread : 18 exit CS at Mon Feb 28 23:05:59 2022
+
+3 th time Thread : 48 in critical section at Mon Feb 28 23:05:59 2022
+
+2 th time Thread : 11 requested CS at Mon Feb 28 23:06:00 2022
+
+3 th time Thread : 44 in critical section at Mon Feb 28 23:06:01 2022
+
+3 th time Thread : 48 exit CS at Mon Feb 28 23:06:01 2022
+
+2 th time Thread : 18 requested CS at Mon Feb 28 23:06:02 2022
+
+3 th time Thread : 44 exit CS at Mon Feb 28 23:06:02 2022
+
+1 th time Thread : 41 in critical section at Mon Feb 28 23:06:02 2022
+
+4 th time Thread : 48 requested CS at Mon Feb 28 23:06:03 2022
+
+1 th time Thread : 41 exit CS at Mon Feb 28 23:06:03 2022
+
+4 th time Thread : 14 in critical section at Mon Feb 28 23:06:03 2022
+
+4 th time Thread : 44 requested CS at Mon Feb 28 23:06:04 2022
+
+4 th time Thread : 14 exit CS at Mon Feb 28 23:06:04 2022
+
+2 th time Thread : 13 in critical section at Mon Feb 28 23:06:04 2022
+
+2 th time Thread : 41 requested CS at Mon Feb 28 23:06:05 2022
+
+2 th time Thread : 13 exit CS at Mon Feb 28 23:06:06 2022
+
+2 th time Thread : 11 in critical section at Mon Feb 28 23:06:06 2022
+
+5 th time Thread : 14 requested CS at Mon Feb 28 23:06:07 2022
+
+2 th time Thread : 11 exit CS at Mon Feb 28 23:06:07 2022
+
+3 th time Thread : 20 in critical section at Mon Feb 28 23:06:07 2022
+
+3 th time Thread : 13 requested CS at Mon Feb 28 23:06:08 2022
+
+3 th time Thread : 20 exit CS at Mon Feb 28 23:06:08 2022
+
+2 th time Thread : 16 in critical section at Mon Feb 28 23:06:08 2022
+
+3 th time Thread : 11 requested CS at Mon Feb 28 23:06:09 2022
+
+2 th time Thread : 16 exit CS at Mon Feb 28 23:06:09 2022
+
+3 th time Thread : 43 in critical section at Mon Feb 28 23:06:09 2022
+
+4 th time Thread : 20 requested CS at Mon Feb 28 23:06:10 2022
+
+3 th time Thread : 43 exit CS at Mon Feb 28 23:06:10 2022
+
+3 th time Thread : 51 in critical section at Mon Feb 28 23:06:10 2022
+
+3 th time Thread : 16 requested CS at Mon Feb 28 23:06:11 2022
+
+3 th time Thread : 51 exit CS at Mon Feb 28 23:06:12 2022
+
+3 th time Thread : 12 in critical section at Mon Feb 28 23:06:12 2022
+
+4 th time Thread : 43 requested CS at Mon Feb 28 23:06:13 2022
+
+3 th time Thread : 12 exit CS at Mon Feb 28 23:06:13 2022
+
+4 th time Thread : 48 in critical section at Mon Feb 28 23:06:13 2022
+
+4 th time Thread : 51 requested CS at Mon Feb 28 23:06:14 2022
+
+4 th time Thread : 48 exit CS at Mon Feb 28 23:06:14 2022
+
+3 th time Thread : 11 in critical section at Mon Feb 28 23:06:14 2022
+
+4 th time Thread : 12 requested CS at Mon Feb 28 23:06:15 2022
+
+3 th time Thread : 11 exit CS at Mon Feb 28 23:06:15 2022
+
+2 th time Thread : 4 in critical section at Mon Feb 28 23:06:15 2022
+
+5 th time Thread : 48 requested CS at Mon Feb 28 23:06:16 2022
+
+2 th time Thread : 4 exit CS at Mon Feb 28 23:06:16 2022
+
+3 th time Thread : 32 in critical section at Mon Feb 28 23:06:16 2022
+
+4 th time Thread : 11 requested CS at Mon Feb 28 23:06:17 2022
+
+3 th time Thread : 32 exit CS at Mon Feb 28 23:06:18 2022
+
+2 th time Thread : 17 in critical section at Mon Feb 28 23:06:18 2022
+
+3 th time Thread : 4 requested CS at Mon Feb 28 23:06:19 2022
+
+2 th time Thread : 17 exit CS at Mon Feb 28 23:06:19 2022
+
+2 th time Thread : 30 in critical section at Mon Feb 28 23:06:19 2022
+
+4 th time Thread : 32 requested CS at Mon Feb 28 23:06:20 2022
+
+2 th time Thread : 30 exit CS at Mon Feb 28 23:06:20 2022
+
+3 th time Thread : 19 in critical section at Mon Feb 28 23:06:20 2022
+
+3 th time Thread : 17 requested CS at Mon Feb 28 23:06:21 2022
+
+3 th time Thread : 19 exit CS at Mon Feb 28 23:06:21 2022
+
+4 th time Thread : 20 in critical section at Mon Feb 28 23:06:21 2022
+
+3 th time Thread : 30 requested CS at Mon Feb 28 23:06:22 2022
+
+4 th time Thread : 20 exit CS at Mon Feb 28 23:06:23 2022
+
+4 th time Thread : 44 in critical section at Mon Feb 28 23:06:23 2022
+
+4 th time Thread : 19 requested CS at Mon Feb 28 23:06:24 2022
+
+4 th time Thread : 44 exit CS at Mon Feb 28 23:06:24 2022
+
+4 th time Thread : 19 in critical section at Mon Feb 28 23:06:24 2022
+
+5 th time Thread : 20 requested CS at Mon Feb 28 23:06:25 2022
+
+4 th time Thread : 19 exit CS at Mon Feb 28 23:06:25 2022
+
+5 th time Thread : 20 in critical section at Mon Feb 28 23:06:25 2022
+
+5 th time Thread : 44 requested CS at Mon Feb 28 23:06:26 2022
+
+5 th time Thread : 20 exit CS at Mon Feb 28 23:06:26 2022
+
+2 th time Thread : 24 in critical section at Mon Feb 28 23:06:26 2022
+
+5 th time Thread : 19 requested CS at Mon Feb 28 23:06:27 2022
+
+2 th time Thread : 24 exit CS at Mon Feb 28 23:06:28 2022
+
+5 th time Thread : 19 in critical section at Mon Feb 28 23:06:28 2022
+
+6 th time Thread : 20 requested CS at Mon Feb 28 23:06:29 2022
+
+5 th time Thread : 19 exit CS at Mon Feb 28 23:06:29 2022
+
+6 th time Thread : 20 in critical section at Mon Feb 28 23:06:29 2022
+
+3 th time Thread : 24 requested CS at Mon Feb 28 23:06:30 2022
+
+6 th time Thread : 20 exit CS at Mon Feb 28 23:06:30 2022
+
+5 th time Thread : 39 in critical section at Mon Feb 28 23:06:30 2022
+
+6 th time Thread : 19 requested CS at Mon Feb 28 23:06:31 2022
+
+5 th time Thread : 39 exit CS at Mon Feb 28 23:06:31 2022
+
+5 th time Thread : 27 in critical section at Mon Feb 28 23:06:31 2022
+
+7 th time Thread : 20 requested CS at Mon Feb 28 23:06:32 2022
+
+5 th time Thread : 27 exit CS at Mon Feb 28 23:06:32 2022
+
+3 th time Thread : 7 in critical section at Mon Feb 28 23:06:32 2022
+
+6 th time Thread : 39 requested CS at Mon Feb 28 23:06:33 2022
+
+3 th time Thread : 7 exit CS at Mon Feb 28 23:06:34 2022
+
+3 th time Thread : 36 in critical section at Mon Feb 28 23:06:34 2022
+
+6 th time Thread : 27 requested CS at Mon Feb 28 23:06:35 2022
+
+3 th time Thread : 36 exit CS at Mon Feb 28 23:06:35 2022
+
+4 th time Thread : 43 in critical section at Mon Feb 28 23:06:35 2022
+
+4 th time Thread : 7 requested CS at Mon Feb 28 23:06:36 2022
+
+4 th time Thread : 43 exit CS at Mon Feb 28 23:06:36 2022
+
+2 th time Thread : 3 in critical section at Mon Feb 28 23:06:36 2022
+
+4 th time Thread : 36 requested CS at Mon Feb 28 23:06:37 2022
+
+2 th time Thread : 3 exit CS at Mon Feb 28 23:06:37 2022
+
+4 th time Thread : 36 in critical section at Mon Feb 28 23:06:37 2022
+
+5 th time Thread : 43 requested CS at Mon Feb 28 23:06:38 2022
+
+4 th time Thread : 36 exit CS at Mon Feb 28 23:06:38 2022
+
+5 th time Thread : 44 in critical section at Mon Feb 28 23:06:38 2022
+
+3 th time Thread : 3 requested CS at Mon Feb 28 23:06:39 2022
+
+5 th time Thread : 44 exit CS at Mon Feb 28 23:06:40 2022
+
+4 th time Thread : 11 in critical section at Mon Feb 28 23:06:40 2022
+
+5 th time Thread : 36 requested CS at Mon Feb 28 23:06:41 2022
+
+4 th time Thread : 11 exit CS at Mon Feb 28 23:06:41 2022
+
+1 th time Thread : 29 in critical section at Mon Feb 28 23:06:41 2022
+
+6 th time Thread : 44 requested CS at Mon Feb 28 23:06:42 2022
+
+1 th time Thread : 29 exit CS at Mon Feb 28 23:06:42 2022
+
+3 th time Thread : 13 in critical section at Mon Feb 28 23:06:42 2022
+
+5 th time Thread : 11 requested CS at Mon Feb 28 23:06:43 2022
+
+3 th time Thread : 13 exit CS at Mon Feb 28 23:06:43 2022
+
+5 th time Thread : 14 in critical section at Mon Feb 28 23:06:43 2022
+
+2 th time Thread : 29 requested CS at Mon Feb 28 23:06:44 2022
+
+5 th time Thread : 14 exit CS at Mon Feb 28 23:06:45 2022
+
+6 th time Thread : 19 in critical section at Mon Feb 28 23:06:45 2022
+
+4 th time Thread : 13 requested CS at Mon Feb 28 23:06:46 2022
+
+6 th time Thread : 19 exit CS at Mon Feb 28 23:06:46 2022
+
+3 th time Thread : 24 in critical section at Mon Feb 28 23:06:46 2022
+
+6 th time Thread : 14 requested CS at Mon Feb 28 23:06:47 2022
+
+3 th time Thread : 24 exit CS at Mon Feb 28 23:06:47 2022
+
+1 th time Thread : 50 in critical section at Mon Feb 28 23:06:47 2022
+
+7 th time Thread : 19 requested CS at Mon Feb 28 23:06:48 2022
+
+1 th time Thread : 50 exit CS at Mon Feb 28 23:06:48 2022
+
+3 th time Thread : 3 in critical section at Mon Feb 28 23:06:48 2022
+
+4 th time Thread : 24 requested CS at Mon Feb 28 23:06:49 2022
+
+3 th time Thread : 3 exit CS at Mon Feb 28 23:06:49 2022
+
+5 th time Thread : 11 in critical section at Mon Feb 28 23:06:50 2022
+
+2 th time Thread : 50 requested CS at Mon Feb 28 23:06:50 2022
+
+5 th time Thread : 11 exit CS at Mon Feb 28 23:06:51 2022
+
+5 th time Thread : 43 in critical section at Mon Feb 28 23:06:51 2022
+
+4 th time Thread : 3 requested CS at Mon Feb 28 23:06:52 2022
+
+5 th time Thread : 43 exit CS at Mon Feb 28 23:06:52 2022
+
+4 th time Thread : 3 in critical section at Mon Feb 28 23:06:52 2022
+
+6 th time Thread : 11 requested CS at Mon Feb 28 23:06:53 2022
+
+4 th time Thread : 3 exit CS at Mon Feb 28 23:06:53 2022
+
+5 th time Thread : 48 in critical section at Mon Feb 28 23:06:53 2022
+
+6 th time Thread : 43 requested CS at Mon Feb 28 23:06:54 2022
+
+5 th time Thread : 48 exit CS at Mon Feb 28 23:06:54 2022
+
+3 th time Thread : 8 in critical section at Mon Feb 28 23:06:55 2022
+
+5 th time Thread : 3 requested CS at Mon Feb 28 23:06:55 2022
+
+3 th time Thread : 8 exit CS at Mon Feb 28 23:06:56 2022
+
+3 th time Thread : 4 in critical section at Mon Feb 28 23:06:56 2022
+
+6 th time Thread : 48 requested CS at Mon Feb 28 23:06:57 2022
+
+3 th time Thread : 4 exit CS at Mon Feb 28 23:06:57 2022
+
+2 th time Thread : 15 in critical section at Mon Feb 28 23:06:57 2022
+
+4 th time Thread : 8 requested CS at Mon Feb 28 23:06:58 2022
+
+2 th time Thread : 15 exit CS at Mon Feb 28 23:06:58 2022
+
+6 th time Thread : 48 in critical section at Mon Feb 28 23:06:58 2022
+
+4 th time Thread : 4 requested CS at Mon Feb 28 23:06:59 2022
+
+6 th time Thread : 48 exit CS at Mon Feb 28 23:06:59 2022
+
+3 th time Thread : 16 in critical section at Mon Feb 28 23:06:59 2022
+
+3 th time Thread : 15 requested CS at Mon Feb 28 23:07:00 2022
+
+3 th time Thread : 16 exit CS at Mon Feb 28 23:07:01 2022
+
+6 th time Thread : 44 in critical section at Mon Feb 28 23:07:01 2022
+
+7 th time Thread : 48 requested CS at Mon Feb 28 23:07:02 2022
+
+6 th time Thread : 44 exit CS at Mon Feb 28 23:07:02 2022
+
+2 th time Thread : 23 in critical section at Mon Feb 28 23:07:02 2022
+
+4 th time Thread : 16 requested CS at Mon Feb 28 23:07:03 2022
+
+2 th time Thread : 23 exit CS at Mon Feb 28 23:07:03 2022
+
+5 th time Thread : 36 in critical section at Mon Feb 28 23:07:03 2022
+
+7 th time Thread : 44 requested CS at Mon Feb 28 23:07:04 2022
+
+5 th time Thread : 36 exit CS at Mon Feb 28 23:07:04 2022
+
+4 th time Thread : 32 in critical section at Mon Feb 28 23:07:04 2022
+
+3 th time Thread : 23 requested CS at Mon Feb 28 23:07:05 2022
+
+4 th time Thread : 32 exit CS at Mon Feb 28 23:07:05 2022
+
+3 th time Thread : 23 in critical section at Mon Feb 28 23:07:05 2022
+
+6 th time Thread : 36 requested CS at Mon Feb 28 23:07:06 2022
+
+3 th time Thread : 23 exit CS at Mon Feb 28 23:07:07 2022
+
+6 th time Thread : 36 in critical section at Mon Feb 28 23:07:07 2022
+
+5 th time Thread : 32 requested CS at Mon Feb 28 23:07:08 2022
+
+6 th time Thread : 36 exit CS at Mon Feb 28 23:07:08 2022
+
+1 th time Thread : 5 in critical section at Mon Feb 28 23:07:08 2022
+
+4 th time Thread : 23 requested CS at Mon Feb 28 23:07:09 2022
+
+1 th time Thread : 5 exit CS at Mon Feb 28 23:07:09 2022
+
+3 th time Thread : 6 in critical section at Mon Feb 28 23:07:09 2022
+
+7 th time Thread : 36 requested CS at Mon Feb 28 23:07:10 2022
+
+3 th time Thread : 6 exit CS at Mon Feb 28 23:07:10 2022
+
+7 th time Thread : 48 in critical section at Mon Feb 28 23:07:10 2022
+
+2 th time Thread : 5 requested CS at Mon Feb 28 23:07:11 2022
+
+7 th time Thread : 48 exit CS at Mon Feb 28 23:07:12 2022
+
+4 th time Thread : 23 in critical section at Mon Feb 28 23:07:12 2022
+
+4 th time Thread : 6 requested CS at Mon Feb 28 23:07:13 2022
+
+4 th time Thread : 23 exit CS at Mon Feb 28 23:07:13 2022
+
+3 th time Thread : 21 in critical section at Mon Feb 28 23:07:13 2022
+
+8 th time Thread : 48 requested CS at Mon Feb 28 23:07:14 2022
+
+3 th time Thread : 21 exit CS at Mon Feb 28 23:07:14 2022
+
+3 th time Thread : 45 in critical section at Mon Feb 28 23:07:14 2022
+
+5 th time Thread : 23 requested CS at Mon Feb 28 23:07:15 2022
+
+3 th time Thread : 45 exit CS at Mon Feb 28 23:07:15 2022
+
+2 th time Thread : 2 in critical section at Mon Feb 28 23:07:15 2022
+
+4 th time Thread : 21 requested CS at Mon Feb 28 23:07:16 2022
+
+2 th time Thread : 2 exit CS at Mon Feb 28 23:07:16 2022
+
+3 th time Thread : 30 in critical section at Mon Feb 28 23:07:16 2022
+
+4 th time Thread : 45 requested CS at Mon Feb 28 23:07:17 2022
+
+3 th time Thread : 30 exit CS at Mon Feb 28 23:07:18 2022
+
+6 th time Thread : 27 in critical section at Mon Feb 28 23:07:18 2022
+
+3 th time Thread : 2 requested CS at Mon Feb 28 23:07:19 2022
+
+6 th time Thread : 27 exit CS at Mon Feb 28 23:07:19 2022
+
+8 th time Thread : 48 in critical section at Mon Feb 28 23:07:19 2022
+
+4 th time Thread : 30 requested CS at Mon Feb 28 23:07:20 2022
+
+8 th time Thread : 48 exit CS at Mon Feb 28 23:07:20 2022
+
+6 th time Thread : 43 in critical section at Mon Feb 28 23:07:20 2022
+
+7 th time Thread : 27 requested CS at Mon Feb 28 23:07:21 2022
+
+6 th time Thread : 43 exit CS at Mon Feb 28 23:07:21 2022
+
+5 th time Thread : 3 in critical section at Mon Feb 28 23:07:21 2022
+
+9 th time Thread : 48 requested CS at Mon Feb 28 23:07:22 2022
+
+2 th time Thread : 47 in critical section at Mon Feb 28 23:07:23 2022
+
+5 th time Thread : 3 exit CS at Mon Feb 28 23:07:23 2022
+
+7 th time Thread : 43 requested CS at Mon Feb 28 23:07:23 2022
+
+2 th time Thread : 47 exit CS at Mon Feb 28 23:07:24 2022
+
+4 th time Thread : 30 in critical section at Mon Feb 28 23:07:24 2022
+
+6 th time Thread : 3 requested CS at Mon Feb 28 23:07:25 2022
+
+4 th time Thread : 30 exit CS at Mon Feb 28 23:07:25 2022
+
+2 th time Thread : 25 in critical section at Mon Feb 28 23:07:25 2022
+
+3 th time Thread : 47 requested CS at Mon Feb 28 23:07:26 2022
+
+2 th time Thread : 25 exit CS at Mon Feb 28 23:07:26 2022
+
+7 th time Thread : 43 in critical section at Mon Feb 28 23:07:26 2022
+
+5 th time Thread : 30 requested CS at Mon Feb 28 23:07:27 2022
+
+7 th time Thread : 43 exit CS at Mon Feb 28 23:07:27 2022
+
+4 th time Thread : 24 in critical section at Mon Feb 28 23:07:27 2022
+
+3 th time Thread : 25 requested CS at Mon Feb 28 23:07:28 2022
+
+4 th time Thread : 24 exit CS at Mon Feb 28 23:07:29 2022
+
+9 th time Thread : 48 in critical section at Mon Feb 28 23:07:29 2022
+
+8 th time Thread : 43 requested CS at Mon Feb 28 23:07:30 2022
+
+9 th time Thread : 48 exit CS at Mon Feb 28 23:07:30 2022
+
+4 th time Thread : 8 in critical section at Mon Feb 28 23:07:30 2022
+
+5 th time Thread : 24 requested CS at Mon Feb 28 23:07:31 2022
+
+5 th time Thread : 30 in critical section at Mon Feb 28 23:07:31 2022
+
+4 th time Thread : 8 exit CS at Mon Feb 28 23:07:31 2022
+
+10 th time Thread : 48 requested CS at Mon Feb 28 23:07:32 2022
+
+5 th time Thread : 30 exit CS at Mon Feb 28 23:07:32 2022
+
+2 th time Thread : 50 in critical section at Mon Feb 28 23:07:32 2022
+
+5 th time Thread : 8 requested CS at Mon Feb 28 23:07:33 2022
+
+2 th time Thread : 50 exit CS at Mon Feb 28 23:07:33 2022
+
+4 th time Thread : 13 in critical section at Mon Feb 28 23:07:33 2022
+
+6 th time Thread : 30 requested CS at Mon Feb 28 23:07:34 2022
+
+4 th time Thread : 13 exit CS at Mon Feb 28 23:07:35 2022
+
+10 th time Thread : 48 in critical section at Mon Feb 28 23:07:35 2022
+
+3 th time Thread : 50 requested CS at Mon Feb 28 23:07:36 2022
+
+10 th time Thread : 48 exit CS at Mon Feb 28 23:07:36 2022
+
+4 th time Thread : 51 in critical section at Mon Feb 28 23:07:36 2022
+
+5 th time Thread : 13 requested CS at Mon Feb 28 23:07:37 2022
+
+4 th time Thread : 51 exit CS at Mon Feb 28 23:07:37 2022
+
+3 th time Thread : 35 in critical section at Mon Feb 28 23:07:37 2022
+
+3 th time Thread : 35 exit CS at Mon Feb 28 23:07:38 2022
+
+2 th time Thread : 18 in critical section at Mon Feb 28 23:07:38 2022
+
+5 th time Thread : 51 requested CS at Mon Feb 28 23:07:39 2022
+
+2 th time Thread : 18 exit CS at Mon Feb 28 23:07:39 2022
+
+7 th time Thread : 20 in critical section at Mon Feb 28 23:07:40 2022
+
+4 th time Thread : 35 requested CS at Mon Feb 28 23:07:40 2022
+
+7 th time Thread : 20 exit CS at Mon Feb 28 23:07:41 2022
+
+3 th time Thread : 47 in critical section at Mon Feb 28 23:07:41 2022
+
+3 th time Thread : 18 requested CS at Mon Feb 28 23:07:42 2022
+
+3 th time Thread : 47 exit CS at Mon Feb 28 23:07:42 2022
+
+7 th time Thread : 36 in critical section at Mon Feb 28 23:07:42 2022
+
+8 th time Thread : 20 requested CS at Mon Feb 28 23:07:43 2022
+
+7 th time Thread : 36 exit CS at Mon Feb 28 23:07:43 2022
+
+7 th time Thread : 44 in critical section at Mon Feb 28 23:07:43 2022
+
+4 th time Thread : 47 requested CS at Mon Feb 28 23:07:44 2022
+
+7 th time Thread : 44 exit CS at Mon Feb 28 23:07:44 2022
+
+7 th time Thread : 27 in critical section at Mon Feb 28 23:07:44 2022
+
+8 th time Thread : 36 requested CS at Mon Feb 28 23:07:45 2022
+
+7 th time Thread : 27 exit CS at Mon Feb 28 23:07:46 2022
+
+6 th time Thread : 3 in critical section at Mon Feb 28 23:07:46 2022
+
+8 th time Thread : 44 requested CS at Mon Feb 28 23:07:47 2022
+
+6 th time Thread : 3 exit CS at Mon Feb 28 23:07:47 2022
+
+8 th time Thread : 20 in critical section at Mon Feb 28 23:07:47 2022
+
+8 th time Thread : 27 requested CS at Mon Feb 28 23:07:48 2022
+
+8 th time Thread : 20 exit CS at Mon Feb 28 23:07:48 2022
+
+2 th time Thread : 40 in critical section at Mon Feb 28 23:07:48 2022
+
+7 th time Thread : 3 requested CS at Mon Feb 28 23:07:49 2022
+
+2 th time Thread : 40 exit CS at Mon Feb 28 23:07:49 2022
+
+5 th time Thread : 32 in critical section at Mon Feb 28 23:07:49 2022
+
+9 th time Thread : 20 requested CS at Mon Feb 28 23:07:50 2022
+
+5 th time Thread : 32 exit CS at Mon Feb 28 23:07:50 2022
+
+2 th time Thread : 41 in critical section at Mon Feb 28 23:07:50 2022
+
+3 th time Thread : 40 requested CS at Mon Feb 28 23:07:51 2022
+
+2 th time Thread : 41 exit CS at Mon Feb 28 23:07:52 2022
+
+4 th time Thread : 7 in critical section at Mon Feb 28 23:07:52 2022
+
+6 th time Thread : 32 requested CS at Mon Feb 28 23:07:53 2022
+
+4 th time Thread : 7 exit CS at Mon Feb 28 23:07:53 2022
+
+7 th time Thread : 19 in critical section at Mon Feb 28 23:07:53 2022
+
+3 th time Thread : 41 requested CS at Mon Feb 28 23:07:54 2022
+
+7 th time Thread : 19 exit CS at Mon Feb 28 23:07:54 2022
+
+2 th time Thread : 31 in critical section at Mon Feb 28 23:07:54 2022
+
+5 th time Thread : 7 requested CS at Mon Feb 28 23:07:55 2022
+
+2 th time Thread : 31 exit CS at Mon Feb 28 23:07:55 2022
+
+8 th time Thread : 27 in critical section at Mon Feb 28 23:07:55 2022
+
+8 th time Thread : 19 requested CS at Mon Feb 28 23:07:56 2022
+
+8 th time Thread : 27 exit CS at Mon Feb 28 23:07:57 2022
+
+8 th time Thread : 36 in critical section at Mon Feb 28 23:07:57 2022
+
+3 th time Thread : 31 requested CS at Mon Feb 28 23:07:58 2022
+
+8 th time Thread : 36 exit CS at Mon Feb 28 23:07:58 2022
+
+3 th time Thread : 15 in critical section at Mon Feb 28 23:07:58 2022
+
+9 th time Thread : 27 requested CS at Mon Feb 28 23:07:59 2022
+
+3 th time Thread : 15 exit CS at Mon Feb 28 23:07:59 2022
+
+8 th time Thread : 43 in critical section at Mon Feb 28 23:07:59 2022
+
+9 th time Thread : 36 requested CS at Mon Feb 28 23:08:00 2022
+
+8 th time Thread : 43 exit CS at Mon Feb 28 23:08:00 2022
+
+6 th time Thread : 39 in critical section at Mon Feb 28 23:08:00 2022
+
+4 th time Thread : 15 requested CS at Mon Feb 28 23:08:01 2022
+
+6 th time Thread : 39 exit CS at Mon Feb 28 23:08:01 2022
+
+4 th time Thread : 4 in critical section at Mon Feb 28 23:08:02 2022
+
+9 th time Thread : 43 requested CS at Mon Feb 28 23:08:02 2022
+
+4 th time Thread : 4 exit CS at Mon Feb 28 23:08:03 2022
+
+4 th time Thread : 47 in critical section at Mon Feb 28 23:08:03 2022
+
+7 th time Thread : 39 requested CS at Mon Feb 28 23:08:04 2022
+
+4 th time Thread : 47 exit CS at Mon Feb 28 23:08:04 2022
+
+4 th time Thread : 12 in critical section at Mon Feb 28 23:08:04 2022
+
+5 th time Thread : 4 requested CS at Mon Feb 28 23:08:05 2022
+
+4 th time Thread : 12 exit CS at Mon Feb 28 23:08:05 2022
+
+3 th time Thread : 40 in critical section at Mon Feb 28 23:08:05 2022
+
+5 th time Thread : 47 requested CS at Mon Feb 28 23:08:06 2022
+
+3 th time Thread : 40 exit CS at Mon Feb 28 23:08:07 2022
+
+5 th time Thread : 47 in critical section at Mon Feb 28 23:08:07 2022
+
+5 th time Thread : 12 requested CS at Mon Feb 28 23:08:08 2022
+
+5 th time Thread : 47 exit CS at Mon Feb 28 23:08:08 2022
+
+7 th time Thread : 39 in critical section at Mon Feb 28 23:08:08 2022
+
+4 th time Thread : 40 requested CS at Mon Feb 28 23:08:09 2022
+
+7 th time Thread : 39 exit CS at Mon Feb 28 23:08:09 2022
+
+8 th time Thread : 44 in critical section at Mon Feb 28 23:08:09 2022
+
+6 th time Thread : 47 requested CS at Mon Feb 28 23:08:10 2022
+
+8 th time Thread : 44 exit CS at Mon Feb 28 23:08:10 2022
+
+9 th time Thread : 43 in critical section at Mon Feb 28 23:08:10 2022
+
+8 th time Thread : 39 requested CS at Mon Feb 28 23:08:11 2022
+
+9 th time Thread : 43 exit CS at Mon Feb 28 23:08:12 2022
+
+9 th time Thread : 20 in critical section at Mon Feb 28 23:08:12 2022
+
+9 th time Thread : 44 requested CS at Mon Feb 28 23:08:13 2022
+
+9 th time Thread : 20 exit CS at Mon Feb 28 23:08:13 2022
+
+9 th time Thread : 44 in critical section at Mon Feb 28 23:08:13 2022
+
+10 th time Thread : 43 requested CS at Mon Feb 28 23:08:14 2022
+
+9 th time Thread : 44 exit CS at Mon Feb 28 23:08:14 2022
+
+3 th time Thread : 17 in critical section at Mon Feb 28 23:08:14 2022
+
+10 th time Thread : 20 requested CS at Mon Feb 28 23:08:15 2022
+
+3 th time Thread : 17 exit CS at Mon Feb 28 23:08:15 2022
+
+3 th time Thread : 18 in critical section at Mon Feb 28 23:08:15 2022
+
+10 th time Thread : 44 requested CS at Mon Feb 28 23:08:16 2022
+
+3 th time Thread : 18 exit CS at Mon Feb 28 23:08:17 2022
+
+5 th time Thread : 13 in critical section at Mon Feb 28 23:08:17 2022
+
+4 th time Thread : 17 requested CS at Mon Feb 28 23:08:18 2022
+
+5 th time Thread : 13 exit CS at Mon Feb 28 23:08:18 2022
+
+2 th time Thread : 26 in critical section at Mon Feb 28 23:08:18 2022
+
+4 th time Thread : 18 requested CS at Mon Feb 28 23:08:19 2022
+
+2 th time Thread : 26 exit CS at Mon Feb 28 23:08:19 2022
+
+1 th time Thread : 10 in critical section at Mon Feb 28 23:08:19 2022
+
+6 th time Thread : 13 requested CS at Mon Feb 28 23:08:20 2022
+
+1 th time Thread : 10 exit CS at Mon Feb 28 23:08:20 2022
+
+2 th time Thread : 34 in critical section at Mon Feb 28 23:08:20 2022
+
+3 th time Thread : 26 requested CS at Mon Feb 28 23:08:21 2022
+
+2 th time Thread : 34 exit CS at Mon Feb 28 23:08:21 2022
+
+5 th time Thread : 12 in critical section at Mon Feb 28 23:08:21 2022
+
+2 th time Thread : 10 requested CS at Mon Feb 28 23:08:22 2022
+
+5 th time Thread : 12 exit CS at Mon Feb 28 23:08:23 2022
+
+6 th time Thread : 32 in critical section at Mon Feb 28 23:08:23 2022
+
+3 th time Thread : 34 requested CS at Mon Feb 28 23:08:24 2022
+
+6 th time Thread : 32 exit CS at Mon Feb 28 23:08:24 2022
+
+4 th time Thread : 6 in critical section at Mon Feb 28 23:08:24 2022
+
+6 th time Thread : 12 requested CS at Mon Feb 28 23:08:25 2022
+
+4 th time Thread : 6 exit CS at Mon Feb 28 23:08:25 2022
+
+1 th time Thread : 46 in critical section at Mon Feb 28 23:08:25 2022
+
+7 th time Thread : 32 requested CS at Mon Feb 28 23:08:26 2022
+
+1 th time Thread : 46 exit CS at Mon Feb 28 23:08:26 2022
+
+5 th time Thread : 51 in critical section at Mon Feb 28 23:08:26 2022
+
+5 th time Thread : 6 requested CS at Mon Feb 28 23:08:27 2022
+
+5 th time Thread : 51 exit CS at Mon Feb 28 23:08:27 2022
+
+3 th time Thread : 34 in critical section at Mon Feb 28 23:08:27 2022
+
+2 th time Thread : 46 requested CS at Mon Feb 28 23:08:28 2022
+
+3 th time Thread : 34 exit CS at Mon Feb 28 23:08:29 2022
+
+4 th time Thread : 45 in critical section at Mon Feb 28 23:08:29 2022
+
+6 th time Thread : 51 requested CS at Mon Feb 28 23:08:30 2022
+
+4 th time Thread : 45 exit CS at Mon Feb 28 23:08:30 2022
+
+3 th time Thread : 31 in critical section at Mon Feb 28 23:08:30 2022
+
+4 th time Thread : 34 requested CS at Mon Feb 28 23:08:31 2022
+
+3 th time Thread : 31 exit CS at Mon Feb 28 23:08:31 2022
+
+10 th time Thread : 43 in critical section at Mon Feb 28 23:08:31 2022
+
+5 th time Thread : 45 requested CS at Mon Feb 28 23:08:32 2022
+
+10 th time Thread : 43 exit CS at Mon Feb 28 23:08:32 2022
+
+4 th time Thread : 35 in critical section at Mon Feb 28 23:08:32 2022
+
+4 th time Thread : 31 requested CS at Mon Feb 28 23:08:33 2022
+
+4 th time Thread : 35 exit CS at Mon Feb 28 23:08:33 2022
+
+10 th time Thread : 44 in critical section at Mon Feb 28 23:08:33 2022
+
+10 th time Thread : 44 exit CS at Mon Feb 28 23:08:35 2022
+
+7 th time Thread : 3 in critical section at Mon Feb 28 23:08:35 2022
+
+5 th time Thread : 35 requested CS at Mon Feb 28 23:08:36 2022
+
+7 th time Thread : 3 exit CS at Mon Feb 28 23:08:36 2022
+
+4 th time Thread : 17 in critical section at Mon Feb 28 23:08:36 2022
+
+4 th time Thread : 17 exit CS at Mon Feb 28 23:08:37 2022
+
+8 th time Thread : 19 in critical section at Mon Feb 28 23:08:37 2022
+
+8 th time Thread : 3 requested CS at Mon Feb 28 23:08:38 2022
+
+8 th time Thread : 19 exit CS at Mon Feb 28 23:08:38 2022
+
+7 th time Thread : 32 in critical section at Mon Feb 28 23:08:38 2022
+
+5 th time Thread : 17 requested CS at Mon Feb 28 23:08:39 2022
+
+7 th time Thread : 32 exit CS at Mon Feb 28 23:08:39 2022
+
+6 th time Thread : 11 in critical section at Mon Feb 28 23:08:39 2022
+
+9 th time Thread : 19 requested CS at Mon Feb 28 23:08:40 2022
+
+6 th time Thread : 11 exit CS at Mon Feb 28 23:08:41 2022
+
+3 th time Thread : 42 in critical section at Mon Feb 28 23:08:41 2022
+
+8 th time Thread : 32 requested CS at Mon Feb 28 23:08:42 2022
+
+3 th time Thread : 42 exit CS at Mon Feb 28 23:08:42 2022
+
+4 th time Thread : 21 in critical section at Mon Feb 28 23:08:42 2022
+
+7 th time Thread : 11 requested CS at Mon Feb 28 23:08:43 2022
+
+4 th time Thread : 21 exit CS at Mon Feb 28 23:08:43 2022
+
+4 th time Thread : 31 in critical section at Mon Feb 28 23:08:43 2022
+
+4 th time Thread : 42 requested CS at Mon Feb 28 23:08:44 2022
+
+4 th time Thread : 31 exit CS at Mon Feb 28 23:08:44 2022
+
+3 th time Thread : 2 in critical section at Mon Feb 28 23:08:44 2022
+
+5 th time Thread : 21 requested CS at Mon Feb 28 23:08:45 2022
+
+3 th time Thread : 2 exit CS at Mon Feb 28 23:08:46 2022
+
+1 th time Thread : 33 in critical section at Mon Feb 28 23:08:46 2022
+
+5 th time Thread : 31 requested CS at Mon Feb 28 23:08:47 2022
+
+1 th time Thread : 33 exit CS at Mon Feb 28 23:08:47 2022
+
+6 th time Thread : 13 in critical section at Mon Feb 28 23:08:47 2022
+
+4 th time Thread : 2 requested CS at Mon Feb 28 23:08:48 2022
+
+6 th time Thread : 13 exit CS at Mon Feb 28 23:08:48 2022
+
+10 th time Thread : 20 in critical section at Mon Feb 28 23:08:48 2022
+
+2 th time Thread : 33 requested CS at Mon Feb 28 23:08:49 2022
+
+10 th time Thread : 20 exit CS at Mon Feb 28 23:08:49 2022
+
+4 th time Thread : 18 in critical section at Mon Feb 28 23:08:49 2022
+
+7 th time Thread : 13 requested CS at Mon Feb 28 23:08:50 2022
+
+4 th time Thread : 18 exit CS at Mon Feb 28 23:08:50 2022
+
+1 th time Thread : 22 in critical section at Mon Feb 28 23:08:50 2022
+
+1 th time Thread : 22 exit CS at Mon Feb 28 23:08:52 2022
+
+2 th time Thread : 9 in critical section at Mon Feb 28 23:08:52 2022
+
+5 th time Thread : 18 requested CS at Mon Feb 28 23:08:53 2022
+
+2 th time Thread : 9 exit CS at Mon Feb 28 23:08:53 2022
+
+4 th time Thread : 15 in critical section at Mon Feb 28 23:08:53 2022
+
+2 th time Thread : 22 requested CS at Mon Feb 28 23:08:54 2022
+
+4 th time Thread : 15 exit CS at Mon Feb 28 23:08:54 2022
+
+1 th time Thread : 28 in critical section at Mon Feb 28 23:08:54 2022
+
+3 th time Thread : 9 requested CS at Mon Feb 28 23:08:55 2022
+
+1 th time Thread : 28 exit CS at Mon Feb 28 23:08:55 2022
+
+5 th time Thread : 23 in critical section at Mon Feb 28 23:08:55 2022
+
+5 th time Thread : 15 requested CS at Mon Feb 28 23:08:56 2022
+
+5 th time Thread : 23 exit CS at Mon Feb 28 23:08:56 2022
+
+4 th time Thread : 2 in critical section at Mon Feb 28 23:08:56 2022
+
+2 th time Thread : 28 requested CS at Mon Feb 28 23:08:57 2022
+
+4 th time Thread : 2 exit CS at Mon Feb 28 23:08:58 2022
+
+5 th time Thread : 21 in critical section at Mon Feb 28 23:08:58 2022
+
+6 th time Thread : 23 requested CS at Mon Feb 28 23:08:59 2022
+
+5 th time Thread : 21 exit CS at Mon Feb 28 23:08:59 2022
+
+3 th time Thread : 26 in critical section at Mon Feb 28 23:08:59 2022
+
+5 th time Thread : 2 requested CS at Mon Feb 28 23:09:00 2022
+
+3 th time Thread : 26 exit CS at Mon Feb 28 23:09:00 2022
+
+2 th time Thread : 22 in critical section at Mon Feb 28 23:09:00 2022
+
+6 th time Thread : 21 requested CS at Mon Feb 28 23:09:01 2022
+
+2 th time Thread : 22 exit CS at Mon Feb 28 23:09:01 2022
+
+5 th time Thread : 18 in critical section at Mon Feb 28 23:09:01 2022
+
+4 th time Thread : 26 requested CS at Mon Feb 28 23:09:02 2022
+
+5 th time Thread : 18 exit CS at Mon Feb 28 23:09:02 2022
+
+7 th time Thread : 11 in critical section at Mon Feb 28 23:09:02 2022
+
+3 th time Thread : 22 requested CS at Mon Feb 28 23:09:04 2022
+
+7 th time Thread : 11 exit CS at Mon Feb 28 23:09:04 2022
+
+5 th time Thread : 7 in critical section at Mon Feb 28 23:09:04 2022
+
+6 th time Thread : 18 requested CS at Mon Feb 28 23:09:05 2022
+
+5 th time Thread : 7 exit CS at Mon Feb 28 23:09:05 2022
+
+6 th time Thread : 21 in critical section at Mon Feb 28 23:09:05 2022
+
+8 th time Thread : 11 requested CS at Mon Feb 28 23:09:06 2022
+
+6 th time Thread : 21 exit CS at Mon Feb 28 23:09:06 2022
+
+5 th time Thread : 45 in critical section at Mon Feb 28 23:09:06 2022
+
+6 th time Thread : 7 requested CS at Mon Feb 28 23:09:07 2022
+
+5 th time Thread : 45 exit CS at Mon Feb 28 23:09:07 2022
+
+8 th time Thread : 39 in critical section at Mon Feb 28 23:09:07 2022
+
+7 th time Thread : 21 requested CS at Mon Feb 28 23:09:08 2022
+
+8 th time Thread : 39 exit CS at Mon Feb 28 23:09:08 2022
+
+2 th time Thread : 28 in critical section at Mon Feb 28 23:09:08 2022
+
+6 th time Thread : 45 requested CS at Mon Feb 28 23:09:09 2022
+
+2 th time Thread : 28 exit CS at Mon Feb 28 23:09:10 2022
+
+5 th time Thread : 35 in critical section at Mon Feb 28 23:09:10 2022
+
+9 th time Thread : 39 requested CS at Mon Feb 28 23:09:11 2022
+
+5 th time Thread : 35 exit CS at Mon Feb 28 23:09:11 2022
+
+9 th time Thread : 19 in critical section at Mon Feb 28 23:09:11 2022
+
+3 th time Thread : 28 requested CS at Mon Feb 28 23:09:12 2022
+
+9 th time Thread : 19 exit CS at Mon Feb 28 23:09:12 2022
+
+6 th time Thread : 51 in critical section at Mon Feb 28 23:09:12 2022
+
+6 th time Thread : 35 requested CS at Mon Feb 28 23:09:13 2022
+
+6 th time Thread : 51 exit CS at Mon Feb 28 23:09:13 2022
+
+6 th time Thread : 35 in critical section at Mon Feb 28 23:09:13 2022
+
+10 th time Thread : 19 requested CS at Mon Feb 28 23:09:14 2022
+
+6 th time Thread : 35 exit CS at Mon Feb 28 23:09:14 2022
+
+5 th time Thread : 24 in critical section at Mon Feb 28 23:09:14 2022
+
+7 th time Thread : 51 requested CS at Mon Feb 28 23:09:15 2022
+
+5 th time Thread : 24 exit CS at Mon Feb 28 23:09:16 2022
+
+5 th time Thread : 8 in critical section at Mon Feb 28 23:09:16 2022
+
+7 th time Thread : 35 requested CS at Mon Feb 28 23:09:17 2022
+
+5 th time Thread : 8 exit CS at Mon Feb 28 23:09:17 2022
+
+6 th time Thread : 23 in critical section at Mon Feb 28 23:09:17 2022
+
+6 th time Thread : 24 requested CS at Mon Feb 28 23:09:18 2022
+
+6 th time Thread : 23 exit CS at Mon Feb 28 23:09:18 2022
+
+9 th time Thread : 27 in critical section at Mon Feb 28 23:09:18 2022
+
+6 th time Thread : 8 requested CS at Mon Feb 28 23:09:19 2022
+
+9 th time Thread : 27 exit CS at Mon Feb 28 23:09:19 2022
+
+5 th time Thread : 4 in critical section at Mon Feb 28 23:09:19 2022
+
+7 th time Thread : 23 requested CS at Mon Feb 28 23:09:20 2022
+
+5 th time Thread : 4 exit CS at Mon Feb 28 23:09:20 2022
+
+6 th time Thread : 24 in critical section at Mon Feb 28 23:09:20 2022
+
+10 th time Thread : 27 requested CS at Mon Feb 28 23:09:21 2022
+
+6 th time Thread : 24 exit CS at Mon Feb 28 23:09:21 2022
+
+9 th time Thread : 39 in critical section at Mon Feb 28 23:09:21 2022
+
+6 th time Thread : 4 requested CS at Mon Feb 28 23:09:22 2022
+
+9 th time Thread : 39 exit CS at Mon Feb 28 23:09:23 2022
+
+6 th time Thread : 7 in critical section at Mon Feb 28 23:09:23 2022
+
+7 th time Thread : 24 requested CS at Mon Feb 28 23:09:24 2022
+
+6 th time Thread : 7 exit CS at Mon Feb 28 23:09:24 2022
+
+8 th time Thread : 3 in critical section at Mon Feb 28 23:09:24 2022
+
+10 th time Thread : 39 requested CS at Mon Feb 28 23:09:25 2022
+
+8 th time Thread : 3 exit CS at Mon Feb 28 23:09:25 2022
+
+10 th time Thread : 39 in critical section at Mon Feb 28 23:09:25 2022
+
+7 th time Thread : 7 requested CS at Mon Feb 28 23:09:26 2022
+
+10 th time Thread : 39 exit CS at Mon Feb 28 23:09:26 2022
+
+7 th time Thread : 35 in critical section at Mon Feb 28 23:09:26 2022
+
+9 th time Thread : 3 requested CS at Mon Feb 28 23:09:27 2022
+
+7 th time Thread : 35 exit CS at Mon Feb 28 23:09:27 2022
+
+6 th time Thread : 4 in critical section at Mon Feb 28 23:09:27 2022
+
+6 th time Thread : 4 exit CS at Mon Feb 28 23:09:28 2022
+
+8 th time Thread : 32 in critical section at Mon Feb 28 23:09:28 2022
+
+8 th time Thread : 35 requested CS at Mon Feb 28 23:09:29 2022
+
+8 th time Thread : 32 exit CS at Mon Feb 28 23:09:30 2022
+
+3 th time Thread : 28 in critical section at Mon Feb 28 23:09:30 2022
+
+7 th time Thread : 4 requested CS at Mon Feb 28 23:09:31 2022
+
+3 th time Thread : 28 exit CS at Mon Feb 28 23:09:31 2022
+
+7 th time Thread : 21 in critical section at Mon Feb 28 23:09:31 2022
+
+9 th time Thread : 32 requested CS at Mon Feb 28 23:09:32 2022
+
+7 th time Thread : 21 exit CS at Mon Feb 28 23:09:32 2022
+
+9 th time Thread : 32 in critical section at Mon Feb 28 23:09:32 2022
+
+4 th time Thread : 28 requested CS at Mon Feb 28 23:09:33 2022
+
+9 th time Thread : 32 exit CS at Mon Feb 28 23:09:33 2022
+
+4 th time Thread : 28 in critical section at Mon Feb 28 23:09:33 2022
+
+8 th time Thread : 21 requested CS at Mon Feb 28 23:09:34 2022
+
+4 th time Thread : 28 exit CS at Mon Feb 28 23:09:34 2022
+
+5 th time Thread : 15 in critical section at Mon Feb 28 23:09:34 2022
+
+10 th time Thread : 32 requested CS at Mon Feb 28 23:09:35 2022
+
+5 th time Thread : 15 exit CS at Mon Feb 28 23:09:36 2022
+
+4 th time Thread : 16 in critical section at Mon Feb 28 23:09:36 2022
+
+5 th time Thread : 28 requested CS at Mon Feb 28 23:09:36 2022
+
+4 th time Thread : 16 exit CS at Mon Feb 28 23:09:37 2022
+
+7 th time Thread : 24 in critical section at Mon Feb 28 23:09:37 2022
+
+6 th time Thread : 15 requested CS at Mon Feb 28 23:09:38 2022
+
+7 th time Thread : 24 exit CS at Mon Feb 28 23:09:38 2022
+
+6 th time Thread : 12 in critical section at Mon Feb 28 23:09:38 2022
+
+5 th time Thread : 16 requested CS at Mon Feb 28 23:09:39 2022
+
+6 th time Thread : 12 exit CS at Mon Feb 28 23:09:39 2022
+
+10 th time Thread : 19 in critical section at Mon Feb 28 23:09:39 2022
+
+8 th time Thread : 24 requested CS at Mon Feb 28 23:09:40 2022
+
+10 th time Thread : 19 exit CS at Mon Feb 28 23:09:40 2022
+
+4 th time Thread : 40 in critical section at Mon Feb 28 23:09:40 2022
+
+7 th time Thread : 12 requested CS at Mon Feb 28 23:09:41 2022
+
+4 th time Thread : 40 exit CS at Mon Feb 28 23:09:41 2022
+
+6 th time Thread : 47 in critical section at Mon Feb 28 23:09:41 2022
+
+6 th time Thread : 47 exit CS at Mon Feb 28 23:09:42 2022
+
+5 th time Thread : 28 in critical section at Mon Feb 28 23:09:42 2022
+
+5 th time Thread : 40 requested CS at Mon Feb 28 23:09:43 2022
+
+5 th time Thread : 28 exit CS at Mon Feb 28 23:09:44 2022
+
+7 th time Thread : 4 in critical section at Mon Feb 28 23:09:44 2022
+
+7 th time Thread : 47 requested CS at Mon Feb 28 23:09:45 2022
+
+7 th time Thread : 4 exit CS at Mon Feb 28 23:09:45 2022
+
+6 th time Thread : 15 in critical section at Mon Feb 28 23:09:45 2022
+
+6 th time Thread : 28 requested CS at Mon Feb 28 23:09:46 2022
+
+6 th time Thread : 15 exit CS at Mon Feb 28 23:09:46 2022
+
+3 th time Thread : 9 in critical section at Mon Feb 28 23:09:46 2022
+
+8 th time Thread : 4 requested CS at Mon Feb 28 23:09:47 2022
+
+3 th time Thread : 9 exit CS at Mon Feb 28 23:09:47 2022
+
+3 th time Thread : 22 in critical section at Mon Feb 28 23:09:47 2022
+
+7 th time Thread : 15 requested CS at Mon Feb 28 23:09:48 2022
+
+3 th time Thread : 22 exit CS at Mon Feb 28 23:09:48 2022
+
+4 th time Thread : 26 in critical section at Mon Feb 28 23:09:48 2022
+
+4 th time Thread : 9 requested CS at Mon Feb 28 23:09:49 2022
+
+4 th time Thread : 26 exit CS at Mon Feb 28 23:09:50 2022
+
+5 th time Thread : 2 in critical section at Mon Feb 28 23:09:50 2022
+
+4 th time Thread : 22 requested CS at Mon Feb 28 23:09:51 2022
+
+5 th time Thread : 2 exit CS at Mon Feb 28 23:09:51 2022
+
+2 th time Thread : 33 in critical section at Mon Feb 28 23:09:51 2022
+
+5 th time Thread : 26 requested CS at Mon Feb 28 23:09:52 2022
+
+2 th time Thread : 33 exit CS at Mon Feb 28 23:09:52 2022
+
+10 th time Thread : 27 in critical section at Mon Feb 28 23:09:52 2022
+
+6 th time Thread : 2 requested CS at Mon Feb 28 23:09:53 2022
+
+10 th time Thread : 27 exit CS at Mon Feb 28 23:09:53 2022
+
+8 th time Thread : 4 in critical section at Mon Feb 28 23:09:53 2022
+
+3 th time Thread : 33 requested CS at Mon Feb 28 23:09:54 2022
+
+8 th time Thread : 4 exit CS at Mon Feb 28 23:09:54 2022
+
+5 th time Thread : 6 in critical section at Mon Feb 28 23:09:54 2022
+
+5 th time Thread : 6 exit CS at Mon Feb 28 23:09:56 2022
+
+8 th time Thread : 24 in critical section at Mon Feb 28 23:09:56 2022
+
+9 th time Thread : 4 requested CS at Mon Feb 28 23:09:57 2022
+
+8 th time Thread : 24 exit CS at Mon Feb 28 23:09:57 2022
+
+7 th time Thread : 12 in critical section at Mon Feb 28 23:09:57 2022
+
+6 th time Thread : 6 requested CS at Mon Feb 28 23:09:58 2022
+
+7 th time Thread : 12 exit CS at Mon Feb 28 23:09:58 2022
+
+8 th time Thread : 11 in critical section at Mon Feb 28 23:09:58 2022
+
+9 th time Thread : 24 requested CS at Mon Feb 28 23:09:59 2022
+
+8 th time Thread : 11 exit CS at Mon Feb 28 23:09:59 2022
+
+9 th time Thread : 24 in critical section at Mon Feb 28 23:09:59 2022
+
+8 th time Thread : 12 requested CS at Mon Feb 28 23:10:00 2022
+
+9 th time Thread : 24 exit CS at Mon Feb 28 23:10:01 2022
+
+7 th time Thread : 47 in critical section at Mon Feb 28 23:10:01 2022
+
+9 th time Thread : 11 requested CS at Mon Feb 28 23:10:01 2022
+
+7 th time Thread : 47 exit CS at Mon Feb 28 23:10:02 2022
+
+5 th time Thread : 16 in critical section at Mon Feb 28 23:10:02 2022
+
+10 th time Thread : 24 requested CS at Mon Feb 28 23:10:03 2022
+
+5 th time Thread : 16 exit CS at Mon Feb 28 23:10:03 2022
+
+3 th time Thread : 25 in critical section at Mon Feb 28 23:10:03 2022
+
+8 th time Thread : 47 requested CS at Mon Feb 28 23:10:04 2022
+
+3 th time Thread : 25 exit CS at Mon Feb 28 23:10:04 2022
+
+7 th time Thread : 7 in critical section at Mon Feb 28 23:10:04 2022
+
+6 th time Thread : 16 requested CS at Mon Feb 28 23:10:05 2022
+
+7 th time Thread : 7 exit CS at Mon Feb 28 23:10:05 2022
+
+8 th time Thread : 12 in critical section at Mon Feb 28 23:10:05 2022
+
+4 th time Thread : 25 requested CS at Mon Feb 28 23:10:06 2022
+
+8 th time Thread : 12 exit CS at Mon Feb 28 23:10:06 2022
+
+10 th time Thread : 24 in critical section at Mon Feb 28 23:10:06 2022
+
+8 th time Thread : 7 requested CS at Mon Feb 28 23:10:07 2022
+
+10 th time Thread : 24 exit CS at Mon Feb 28 23:10:08 2022
+
+8 th time Thread : 47 in critical section at Mon Feb 28 23:10:08 2022
+
+9 th time Thread : 12 requested CS at Mon Feb 28 23:10:09 2022
+
+8 th time Thread : 47 exit CS at Mon Feb 28 23:10:09 2022
+
+7 th time Thread : 51 in critical section at Mon Feb 28 23:10:09 2022
+
+7 th time Thread : 51 exit CS at Mon Feb 28 23:10:10 2022
+
+6 th time Thread : 8 in critical section at Mon Feb 28 23:10:10 2022
+
+9 th time Thread : 47 requested CS at Mon Feb 28 23:10:11 2022
+
+6 th time Thread : 8 exit CS at Mon Feb 28 23:10:11 2022
+
+7 th time Thread : 23 in critical section at Mon Feb 28 23:10:11 2022
+
+8 th time Thread : 51 requested CS at Mon Feb 28 23:10:12 2022
+
+7 th time Thread : 23 exit CS at Mon Feb 28 23:10:12 2022
+
+5 th time Thread : 40 in critical section at Mon Feb 28 23:10:12 2022
+
+7 th time Thread : 8 requested CS at Mon Feb 28 23:10:13 2022
+
+5 th time Thread : 40 exit CS at Mon Feb 28 23:10:13 2022
+
+6 th time Thread : 16 in critical section at Mon Feb 28 23:10:13 2022
+
+8 th time Thread : 23 requested CS at Mon Feb 28 23:10:14 2022
+
+6 th time Thread : 16 exit CS at Mon Feb 28 23:10:14 2022
+
+7 th time Thread : 8 in critical section at Mon Feb 28 23:10:14 2022
+
+6 th time Thread : 40 requested CS at Mon Feb 28 23:10:15 2022
+
+7 th time Thread : 8 exit CS at Mon Feb 28 23:10:15 2022
+
+7 th time Thread : 13 in critical section at Mon Feb 28 23:10:15 2022
+
+7 th time Thread : 16 requested CS at Mon Feb 28 23:10:16 2022
+
+7 th time Thread : 13 exit CS at Mon Feb 28 23:10:17 2022
+
+8 th time Thread : 35 in critical section at Mon Feb 28 23:10:17 2022
+
+8 th time Thread : 8 requested CS at Mon Feb 28 23:10:18 2022
+
+8 th time Thread : 35 exit CS at Mon Feb 28 23:10:18 2022
+
+9 th time Thread : 36 in critical section at Mon Feb 28 23:10:18 2022
+
+8 th time Thread : 13 requested CS at Mon Feb 28 23:10:19 2022
+
+9 th time Thread : 36 exit CS at Mon Feb 28 23:10:19 2022
+
+9 th time Thread : 11 in critical section at Mon Feb 28 23:10:19 2022
+
+9 th time Thread : 35 requested CS at Mon Feb 28 23:10:20 2022
+
+9 th time Thread : 11 exit CS at Mon Feb 28 23:10:20 2022
+
+1 th time Thread : 37 in critical section at Mon Feb 28 23:10:20 2022
+
+10 th time Thread : 36 requested CS at Mon Feb 28 23:10:21 2022
+
+1 th time Thread : 37 exit CS at Mon Feb 28 23:10:21 2022
+
+3 th time Thread : 50 in critical section at Mon Feb 28 23:10:21 2022
+
+10 th time Thread : 11 requested CS at Mon Feb 28 23:10:22 2022
+
+3 th time Thread : 50 exit CS at Mon Feb 28 23:10:22 2022
+
+2 th time Thread : 29 in critical section at Mon Feb 28 23:10:22 2022
+
+2 th time Thread : 37 requested CS at Mon Feb 28 23:10:23 2022
+
+2 th time Thread : 29 exit CS at Mon Feb 28 23:10:24 2022
+
+10 th time Thread : 11 in critical section at Mon Feb 28 23:10:24 2022
+
+4 th time Thread : 50 requested CS at Mon Feb 28 23:10:25 2022
+
+10 th time Thread : 11 exit CS at Mon Feb 28 23:10:25 2022
+
+8 th time Thread : 8 in critical section at Mon Feb 28 23:10:25 2022
+
+3 th time Thread : 29 requested CS at Mon Feb 28 23:10:26 2022
+
+8 th time Thread : 8 exit CS at Mon Feb 28 23:10:26 2022
+
+9 th time Thread : 35 in critical section at Mon Feb 28 23:10:26 2022
+
+9 th time Thread : 35 exit CS at Mon Feb 28 23:10:27 2022
+
+5 th time Thread : 26 in critical section at Mon Feb 28 23:10:27 2022
+
+9 th time Thread : 8 requested CS at Mon Feb 28 23:10:28 2022
+
+5 th time Thread : 26 exit CS at Mon Feb 28 23:10:28 2022
+
+3 th time Thread : 29 in critical section at Mon Feb 28 23:10:28 2022
+
+10 th time Thread : 35 requested CS at Mon Feb 28 23:10:29 2022
+
+3 th time Thread : 29 exit CS at Mon Feb 28 23:10:30 2022
+
+9 th time Thread : 47 in critical section at Mon Feb 28 23:10:30 2022
+
+6 th time Thread : 26 requested CS at Mon Feb 28 23:10:31 2022
+
+9 th time Thread : 47 exit CS at Mon Feb 28 23:10:31 2022
+
+3 th time Thread : 33 in critical section at Mon Feb 28 23:10:31 2022
+
+4 th time Thread : 29 requested CS at Mon Feb 28 23:10:32 2022
+
+3 th time Thread : 33 exit CS at Mon Feb 28 23:10:32 2022
+
+8 th time Thread : 21 in critical section at Mon Feb 28 23:10:32 2022
+
+10 th time Thread : 47 requested CS at Mon Feb 28 23:10:33 2022
+
+8 th time Thread : 21 exit CS at Mon Feb 28 23:10:33 2022
+
+4 th time Thread : 50 in critical section at Mon Feb 28 23:10:33 2022
+
+4 th time Thread : 33 requested CS at Mon Feb 28 23:10:34 2022
+
+4 th time Thread : 50 exit CS at Mon Feb 28 23:10:34 2022
+
+5 th time Thread : 31 in critical section at Mon Feb 28 23:10:34 2022
+
+9 th time Thread : 21 requested CS at Mon Feb 28 23:10:35 2022
+
+5 th time Thread : 31 exit CS at Mon Feb 28 23:10:35 2022
+
+9 th time Thread : 4 in critical section at Mon Feb 28 23:10:35 2022
+
+5 th time Thread : 50 requested CS at Mon Feb 28 23:10:37 2022
+
+9 th time Thread : 4 exit CS at Mon Feb 28 23:10:37 2022
+
+6 th time Thread : 18 in critical section at Mon Feb 28 23:10:37 2022
+
+6 th time Thread : 31 requested CS at Mon Feb 28 23:10:38 2022
+
+6 th time Thread : 18 exit CS at Mon Feb 28 23:10:38 2022
+
+9 th time Thread : 8 in critical section at Mon Feb 28 23:10:38 2022
+
+10 th time Thread : 4 requested CS at Mon Feb 28 23:10:39 2022
+
+9 th time Thread : 8 exit CS at Mon Feb 28 23:10:39 2022
+
+8 th time Thread : 23 in critical section at Mon Feb 28 23:10:39 2022
+
+7 th time Thread : 18 requested CS at Mon Feb 28 23:10:40 2022
+
+8 th time Thread : 23 exit CS at Mon Feb 28 23:10:40 2022
+
+10 th time Thread : 32 in critical section at Mon Feb 28 23:10:40 2022
+
+10 th time Thread : 8 requested CS at Mon Feb 28 23:10:41 2022
+
+10 th time Thread : 32 exit CS at Mon Feb 28 23:10:41 2022
+
+6 th time Thread : 6 in critical section at Mon Feb 28 23:10:41 2022
+
+9 th time Thread : 23 requested CS at Mon Feb 28 23:10:42 2022
+
+6 th time Thread : 6 exit CS at Mon Feb 28 23:10:42 2022
+
+3 th time Thread : 41 in critical section at Mon Feb 28 23:10:42 2022
+
+3 th time Thread : 41 exit CS at Mon Feb 28 23:10:44 2022
+
+10 th time Thread : 4 in critical section at Mon Feb 28 23:10:44 2022
+
+7 th time Thread : 6 requested CS at Mon Feb 28 23:10:45 2022
+
+10 th time Thread : 4 exit CS at Mon Feb 28 23:10:45 2022
+
+9 th time Thread : 3 in critical section at Mon Feb 28 23:10:45 2022
+
+9 th time Thread : 3 exit CS at Mon Feb 28 23:10:46 2022
+
+8 th time Thread : 51 in critical section at Mon Feb 28 23:10:46 2022
+
+4 th time Thread : 41 requested CS at Mon Feb 28 23:10:46 2022
+
+8 th time Thread : 51 exit CS at Mon Feb 28 23:10:47 2022
+
+10 th time Thread : 36 in critical section at Mon Feb 28 23:10:47 2022
+
+10 th time Thread : 3 requested CS at Mon Feb 28 23:10:48 2022
+
+10 th time Thread : 36 exit CS at Mon Feb 28 23:10:48 2022
+
+9 th time Thread : 12 in critical section at Mon Feb 28 23:10:48 2022
+
+9 th time Thread : 51 requested CS at Mon Feb 28 23:10:49 2022
+
+9 th time Thread : 12 exit CS at Mon Feb 28 23:10:49 2022
+
+10 th time Thread : 47 in critical section at Mon Feb 28 23:10:49 2022
+
+10 th time Thread : 47 exit CS at Mon Feb 28 23:10:50 2022
+
+7 th time Thread : 6 in critical section at Mon Feb 28 23:10:50 2022
+
+10 th time Thread : 12 requested CS at Mon Feb 28 23:10:51 2022
+
+7 th time Thread : 6 exit CS at Mon Feb 28 23:10:51 2022
+
+10 th time Thread : 8 in critical section at Mon Feb 28 23:10:51 2022
+
+10 th time Thread : 8 exit CS at Mon Feb 28 23:10:53 2022
+
+10 th time Thread : 35 in critical section at Mon Feb 28 23:10:53 2022
+
+10 th time Thread : 35 exit CS at Mon Feb 28 23:10:54 2022
+
+6 th time Thread : 14 in critical section at Mon Feb 28 23:10:54 2022
+
+8 th time Thread : 6 requested CS at Mon Feb 28 23:10:54 2022
+
+6 th time Thread : 14 exit CS at Mon Feb 28 23:10:55 2022
+
+4 th time Thread : 22 in critical section at Mon Feb 28 23:10:55 2022
+
+4 th time Thread : 22 exit CS at Mon Feb 28 23:10:56 2022
+
+2 th time Thread : 10 in critical section at Mon Feb 28 23:10:56 2022
+
+7 th time Thread : 14 requested CS at Mon Feb 28 23:10:57 2022
+
+2 th time Thread : 10 exit CS at Mon Feb 28 23:10:57 2022
+
+9 th time Thread : 51 in critical section at Mon Feb 28 23:10:57 2022
+
+5 th time Thread : 22 requested CS at Mon Feb 28 23:10:58 2022
+
+9 th time Thread : 51 exit CS at Mon Feb 28 23:10:58 2022
+
+10 th time Thread : 12 in critical section at Mon Feb 28 23:10:58 2022
+
+10 th time Thread : 12 exit CS at Mon Feb 28 23:10:59 2022
+
+7 th time Thread : 16 in critical section at Mon Feb 28 23:10:59 2022
+
+3 th time Thread : 10 requested CS at Mon Feb 28 23:11:00 2022
+
+10 th time Thread : 51 requested CS at Mon Feb 28 23:11:00 2022
+
+7 th time Thread : 16 exit CS at Mon Feb 28 23:11:00 2022
+
+10 th time Thread : 3 in critical section at Mon Feb 28 23:11:00 2022
+
+10 th time Thread : 3 exit CS at Mon Feb 28 23:11:01 2022
+
+7 th time Thread : 15 in critical section at Mon Feb 28 23:11:01 2022
+
+8 th time Thread : 16 requested CS at Mon Feb 28 23:11:03 2022
+
+7 th time Thread : 15 exit CS at Mon Feb 28 23:11:03 2022
+
+8 th time Thread : 16 in critical section at Mon Feb 28 23:11:03 2022
+
+8 th time Thread : 16 exit CS at Mon Feb 28 23:11:04 2022
+
+6 th time Thread : 28 in critical section at Mon Feb 28 23:11:04 2022
+
+8 th time Thread : 15 requested CS at Mon Feb 28 23:11:05 2022
+
+6 th time Thread : 28 exit CS at Mon Feb 28 23:11:05 2022
+
+8 th time Thread : 7 in critical section at Mon Feb 28 23:11:05 2022
+
+9 th time Thread : 16 requested CS at Mon Feb 28 23:11:06 2022
+
+8 th time Thread : 7 exit CS at Mon Feb 28 23:11:06 2022
+
+6 th time Thread : 40 in critical section at Mon Feb 28 23:11:06 2022
+
+7 th time Thread : 28 requested CS at Mon Feb 28 23:11:07 2022
+
+6 th time Thread : 40 exit CS at Mon Feb 28 23:11:07 2022
+
+6 th time Thread : 26 in critical section at Mon Feb 28 23:11:07 2022
+
+9 th time Thread : 7 requested CS at Mon Feb 28 23:11:08 2022
+
+6 th time Thread : 26 exit CS at Mon Feb 28 23:11:08 2022
+
+4 th time Thread : 29 in critical section at Mon Feb 28 23:11:08 2022
+
+7 th time Thread : 40 requested CS at Mon Feb 28 23:11:09 2022
+
+4 th time Thread : 29 exit CS at Mon Feb 28 23:11:09 2022
+
+5 th time Thread : 22 in critical section at Mon Feb 28 23:11:09 2022
+
+7 th time Thread : 26 requested CS at Mon Feb 28 23:11:10 2022
+
+5 th time Thread : 22 exit CS at Mon Feb 28 23:11:10 2022
+
+6 th time Thread : 2 in critical section at Mon Feb 28 23:11:10 2022
+
+5 th time Thread : 29 requested CS at Mon Feb 28 23:11:11 2022
+
+6 th time Thread : 2 exit CS at Mon Feb 28 23:11:12 2022
+
+5 th time Thread : 17 in critical section at Mon Feb 28 23:11:12 2022
+
+6 th time Thread : 22 requested CS at Mon Feb 28 23:11:12 2022
+
+5 th time Thread : 17 exit CS at Mon Feb 28 23:11:13 2022
+
+9 th time Thread : 16 in critical section at Mon Feb 28 23:11:13 2022
+
+7 th time Thread : 2 requested CS at Mon Feb 28 23:11:14 2022
+
+9 th time Thread : 16 exit CS at Mon Feb 28 23:11:14 2022
+
+7 th time Thread : 28 in critical section at Mon Feb 28 23:11:14 2022
+
+7 th time Thread : 28 exit CS at Mon Feb 28 23:11:15 2022
+
+8 th time Thread : 15 in critical section at Mon Feb 28 23:11:15 2022
+
+6 th time Thread : 17 requested CS at Mon Feb 28 23:11:15 2022
+
+10 th time Thread : 16 requested CS at Mon Feb 28 23:11:16 2022
+
+8 th time Thread : 15 exit CS at Mon Feb 28 23:11:16 2022
+
+4 th time Thread : 9 in critical section at Mon Feb 28 23:11:16 2022
+
+8 th time Thread : 28 requested CS at Mon Feb 28 23:11:17 2022
+
+6 th time Thread : 31 in critical section at Mon Feb 28 23:11:17 2022
+
+4 th time Thread : 9 exit CS at Mon Feb 28 23:11:17 2022
+
+9 th time Thread : 15 requested CS at Mon Feb 28 23:11:18 2022
+
+6 th time Thread : 31 exit CS at Mon Feb 28 23:11:18 2022
+
+2 th time Thread : 37 in critical section at Mon Feb 28 23:11:18 2022
+
+5 th time Thread : 9 requested CS at Mon Feb 28 23:11:19 2022
+
+2 th time Thread : 37 exit CS at Mon Feb 28 23:11:19 2022
+
+5 th time Thread : 50 in critical section at Mon Feb 28 23:11:20 2022
+
+7 th time Thread : 31 requested CS at Mon Feb 28 23:11:20 2022
+
+5 th time Thread : 50 exit CS at Mon Feb 28 23:11:21 2022
+
+10 th time Thread : 16 in critical section at Mon Feb 28 23:11:21 2022
+
+3 th time Thread : 37 requested CS at Mon Feb 28 23:11:22 2022
+
+10 th time Thread : 16 exit CS at Mon Feb 28 23:11:22 2022
+
+9 th time Thread : 23 in critical section at Mon Feb 28 23:11:22 2022
+
+9 th time Thread : 23 exit CS at Mon Feb 28 23:11:23 2022
+
+8 th time Thread : 6 in critical section at Mon Feb 28 23:11:23 2022
+
+6 th time Thread : 50 requested CS at Mon Feb 28 23:11:23 2022
+
+8 th time Thread : 6 exit CS at Mon Feb 28 23:11:24 2022
+
+4 th time Thread : 25 in critical section at Mon Feb 28 23:11:24 2022
+
+10 th time Thread : 23 requested CS at Mon Feb 28 23:11:25 2022
+
+4 th time Thread : 25 exit CS at Mon Feb 28 23:11:25 2022
+
+6 th time Thread : 22 in critical section at Mon Feb 28 23:11:25 2022
+
+9 th time Thread : 6 requested CS at Mon Feb 28 23:11:26 2022
+
+6 th time Thread : 22 exit CS at Mon Feb 28 23:11:27 2022
+
+6 th time Thread : 17 in critical section at Mon Feb 28 23:11:27 2022
+
+5 th time Thread : 25 requested CS at Mon Feb 28 23:11:28 2022
+
+6 th time Thread : 17 exit CS at Mon Feb 28 23:11:28 2022
+
+6 th time Thread : 50 in critical section at Mon Feb 28 23:11:28 2022
+
+7 th time Thread : 22 requested CS at Mon Feb 28 23:11:29 2022
+
+6 th time Thread : 50 exit CS at Mon Feb 28 23:11:29 2022
+
+10 th time Thread : 23 in critical section at Mon Feb 28 23:11:29 2022
+
+7 th time Thread : 17 requested CS at Mon Feb 28 23:11:30 2022
+
+10 th time Thread : 23 exit CS at Mon Feb 28 23:11:30 2022
+
+9 th time Thread : 15 in critical section at Mon Feb 28 23:11:30 2022
+
+9 th time Thread : 15 exit CS at Mon Feb 28 23:11:31 2022
+
+7 th time Thread : 40 in critical section at Mon Feb 28 23:11:31 2022
+
+7 th time Thread : 50 requested CS at Mon Feb 28 23:11:31 2022
+
+7 th time Thread : 40 exit CS at Mon Feb 28 23:11:32 2022
+
+1 th time Thread : 38 in critical section at Mon Feb 28 23:11:32 2022
+
+10 th time Thread : 15 requested CS at Mon Feb 28 23:11:33 2022
+
+1 th time Thread : 38 exit CS at Mon Feb 28 23:11:33 2022
+
+7 th time Thread : 31 in critical section at Mon Feb 28 23:11:33 2022
+
+8 th time Thread : 40 requested CS at Mon Feb 28 23:11:34 2022
+
+7 th time Thread : 31 exit CS at Mon Feb 28 23:11:34 2022
+
+2 th time Thread : 49 in critical section at Mon Feb 28 23:11:34 2022
+
+2 th time Thread : 38 requested CS at Mon Feb 28 23:11:35 2022
+
+2 th time Thread : 49 exit CS at Mon Feb 28 23:11:36 2022
+
+8 th time Thread : 28 in critical section at Mon Feb 28 23:11:36 2022
+
+8 th time Thread : 31 requested CS at Mon Feb 28 23:11:36 2022
+
+8 th time Thread : 28 exit CS at Mon Feb 28 23:11:37 2022
+
+9 th time Thread : 21 in critical section at Mon Feb 28 23:11:37 2022
+
+3 th time Thread : 49 requested CS at Mon Feb 28 23:11:38 2022
+
+9 th time Thread : 21 exit CS at Mon Feb 28 23:11:38 2022
+
+8 th time Thread : 31 in critical section at Mon Feb 28 23:11:38 2022
+
+9 th time Thread : 28 requested CS at Mon Feb 28 23:11:39 2022
+
+8 th time Thread : 31 exit CS at Mon Feb 28 23:11:39 2022
+
+10 th time Thread : 51 in critical section at Mon Feb 28 23:11:39 2022
+
+10 th time Thread : 51 exit CS at Mon Feb 28 23:11:40 2022
+
+5 th time Thread : 29 in critical section at Mon Feb 28 23:11:40 2022
+
+10 th time Thread : 21 requested CS at Mon Feb 28 23:11:40 2022
+
+9 th time Thread : 31 requested CS at Mon Feb 28 23:11:41 2022
+
+5 th time Thread : 29 exit CS at Mon Feb 28 23:11:41 2022
+
+6 th time Thread : 30 in critical section at Mon Feb 28 23:11:41 2022
+
+6 th time Thread : 30 exit CS at Mon Feb 28 23:11:42 2022
+
+4 th time Thread : 33 in critical section at Mon Feb 28 23:11:42 2022
+
+6 th time Thread : 29 requested CS at Mon Feb 28 23:11:43 2022
+
+4 th time Thread : 33 exit CS at Mon Feb 28 23:11:44 2022
+
+10 th time Thread : 15 in critical section at Mon Feb 28 23:11:44 2022
+
+7 th time Thread : 30 requested CS at Mon Feb 28 23:11:44 2022
+
+10 th time Thread : 15 exit CS at Mon Feb 28 23:11:45 2022
+
+3 th time Thread : 37 in critical section at Mon Feb 28 23:11:45 2022
+
+5 th time Thread : 33 requested CS at Mon Feb 28 23:11:46 2022
+
+3 th time Thread : 37 exit CS at Mon Feb 28 23:11:46 2022
+
+5 th time Thread : 9 in critical section at Mon Feb 28 23:11:46 2022
+
+5 th time Thread : 9 exit CS at Mon Feb 28 23:11:47 2022
+
+7 th time Thread : 22 in critical section at Mon Feb 28 23:11:47 2022
+
+4 th time Thread : 37 requested CS at Mon Feb 28 23:11:48 2022
+
+7 th time Thread : 22 exit CS at Mon Feb 28 23:11:48 2022
+
+3 th time Thread : 10 in critical section at Mon Feb 28 23:11:48 2022
+
+6 th time Thread : 9 requested CS at Mon Feb 28 23:11:49 2022
+
+3 th time Thread : 10 exit CS at Mon Feb 28 23:11:49 2022
+
+7 th time Thread : 18 in critical section at Mon Feb 28 23:11:49 2022
+
+8 th time Thread : 22 requested CS at Mon Feb 28 23:11:50 2022
+
+7 th time Thread : 18 exit CS at Mon Feb 28 23:11:51 2022
+
+7 th time Thread : 30 in critical section at Mon Feb 28 23:11:51 2022
+
+4 th time Thread : 10 requested CS at Mon Feb 28 23:11:52 2022
+
+7 th time Thread : 30 exit CS at Mon Feb 28 23:11:52 2022
+
+2 th time Thread : 38 in critical section at Mon Feb 28 23:11:52 2022
+
+8 th time Thread : 18 requested CS at Mon Feb 28 23:11:53 2022
+
+2 th time Thread : 38 exit CS at Mon Feb 28 23:11:53 2022
+
+9 th time Thread : 31 in critical section at Mon Feb 28 23:11:53 2022
+
+9 th time Thread : 31 exit CS at Mon Feb 28 23:11:54 2022
+
+9 th time Thread : 7 in critical section at Mon Feb 28 23:11:54 2022
+
+8 th time Thread : 30 requested CS at Mon Feb 28 23:11:54 2022
+
+9 th time Thread : 7 exit CS at Mon Feb 28 23:11:55 2022
+
+8 th time Thread : 40 in critical section at Mon Feb 28 23:11:55 2022
+
+3 th time Thread : 38 requested CS at Mon Feb 28 23:11:55 2022
+
+10 th time Thread : 31 requested CS at Mon Feb 28 23:11:56 2022
+
+8 th time Thread : 13 in critical section at Mon Feb 28 23:11:56 2022
+
+8 th time Thread : 40 exit CS at Mon Feb 28 23:11:56 2022
+
+10 th time Thread : 7 requested CS at Mon Feb 28 23:11:57 2022
+
+8 th time Thread : 13 exit CS at Mon Feb 28 23:11:57 2022
+
+6 th time Thread : 9 in critical section at Mon Feb 28 23:11:57 2022
+
+9 th time Thread : 40 requested CS at Mon Feb 28 23:11:58 2022
+
+6 th time Thread : 9 exit CS at Mon Feb 28 23:11:58 2022
+
+2 th time Thread : 46 in critical section at Mon Feb 28 23:11:58 2022
+
+9 th time Thread : 13 requested CS at Mon Feb 28 23:11:59 2022
+
+2 th time Thread : 46 exit CS at Mon Feb 28 23:12:00 2022
+
+4 th time Thread : 42 in critical section at Mon Feb 28 23:12:00 2022
+
+7 th time Thread : 9 requested CS at Mon Feb 28 23:12:01 2022
+
+4 th time Thread : 42 exit CS at Mon Feb 28 23:12:01 2022
+
+9 th time Thread : 6 in critical section at Mon Feb 28 23:12:01 2022
+
+3 th time Thread : 46 requested CS at Mon Feb 28 23:12:02 2022
+
+9 th time Thread : 6 exit CS at Mon Feb 28 23:12:02 2022
+
+3 th time Thread : 38 in critical section at Mon Feb 28 23:12:02 2022
+
+5 th time Thread : 42 requested CS at Mon Feb 28 23:12:03 2022
+
+3 th time Thread : 38 exit CS at Mon Feb 28 23:12:03 2022
+
+7 th time Thread : 50 in critical section at Mon Feb 28 23:12:03 2022
+
+10 th time Thread : 6 requested CS at Mon Feb 28 23:12:04 2022
+
+7 th time Thread : 50 exit CS at Mon Feb 28 23:12:04 2022
+
+3 th time Thread : 46 in critical section at Mon Feb 28 23:12:04 2022
+
+4 th time Thread : 38 requested CS at Mon Feb 28 23:12:05 2022
+
+3 th time Thread : 46 exit CS at Mon Feb 28 23:12:06 2022
+
+10 th time Thread : 31 in critical section at Mon Feb 28 23:12:06 2022
+
+10 th time Thread : 31 exit CS at Mon Feb 28 23:12:07 2022
+
+9 th time Thread : 40 in critical section at Mon Feb 28 23:12:07 2022
+
+8 th time Thread : 50 requested CS at Mon Feb 28 23:12:07 2022
+
+9 th time Thread : 40 exit CS at Mon Feb 28 23:12:08 2022
+
+9 th time Thread : 13 in critical section at Mon Feb 28 23:12:08 2022
+
+4 th time Thread : 46 requested CS at Mon Feb 28 23:12:08 2022
+
+9 th time Thread : 13 exit CS at Mon Feb 28 23:12:09 2022
+
+8 th time Thread : 30 in critical section at Mon Feb 28 23:12:09 2022
+
+10 th time Thread : 40 requested CS at Mon Feb 28 23:12:10 2022
+
+8 th time Thread : 30 exit CS at Mon Feb 28 23:12:10 2022
+
+10 th time Thread : 40 in critical section at Mon Feb 28 23:12:10 2022
+
+10 th time Thread : 13 requested CS at Mon Feb 28 23:12:11 2022
+
+10 th time Thread : 40 exit CS at Mon Feb 28 23:12:11 2022
+
+8 th time Thread : 18 in critical section at Mon Feb 28 23:12:11 2022
+
+9 th time Thread : 30 requested CS at Mon Feb 28 23:12:12 2022
+
+8 th time Thread : 18 exit CS at Mon Feb 28 23:12:12 2022
+
+5 th time Thread : 33 in critical section at Mon Feb 28 23:12:12 2022
+
+5 th time Thread : 33 exit CS at Mon Feb 28 23:12:13 2022
+
+4 th time Thread : 38 in critical section at Mon Feb 28 23:12:13 2022
+
+9 th time Thread : 18 requested CS at Mon Feb 28 23:12:14 2022
+
+4 th time Thread : 38 exit CS at Mon Feb 28 23:12:15 2022
+
+8 th time Thread : 50 in critical section at Mon Feb 28 23:12:15 2022
+
+6 th time Thread : 33 requested CS at Mon Feb 28 23:12:16 2022
+
+8 th time Thread : 50 exit CS at Mon Feb 28 23:12:16 2022
+
+4 th time Thread : 10 in critical section at Mon Feb 28 23:12:16 2022
+
+5 th time Thread : 38 requested CS at Mon Feb 28 23:12:17 2022
+
+4 th time Thread : 10 exit CS at Mon Feb 28 23:12:17 2022
+
+10 th time Thread : 7 in critical section at Mon Feb 28 23:12:17 2022
+
+9 th time Thread : 50 requested CS at Mon Feb 28 23:12:18 2022
+
+10 th time Thread : 7 exit CS at Mon Feb 28 23:12:18 2022
+
+9 th time Thread : 28 in critical section at Mon Feb 28 23:12:18 2022
+
+9 th time Thread : 28 exit CS at Mon Feb 28 23:12:19 2022
+
+5 th time Thread : 25 in critical section at Mon Feb 28 23:12:19 2022
+
+5 th time Thread : 10 requested CS at Mon Feb 28 23:12:19 2022
+
+5 th time Thread : 25 exit CS at Mon Feb 28 23:12:20 2022
+
+4 th time Thread : 46 in critical section at Mon Feb 28 23:12:20 2022
+
+10 th time Thread : 28 requested CS at Mon Feb 28 23:12:21 2022
+
+4 th time Thread : 46 exit CS at Mon Feb 28 23:12:21 2022
+
+4 th time Thread : 41 in critical section at Mon Feb 28 23:12:21 2022
+
+6 th time Thread : 25 requested CS at Mon Feb 28 23:12:22 2022
+
+4 th time Thread : 41 exit CS at Mon Feb 28 23:12:23 2022
+
+10 th time Thread : 28 in critical section at Mon Feb 28 23:12:23 2022
+
+5 th time Thread : 46 requested CS at Mon Feb 28 23:12:24 2022
+
+10 th time Thread : 28 exit CS at Mon Feb 28 23:12:24 2022
+
+3 th time Thread : 49 in critical section at Mon Feb 28 23:12:24 2022
+
+5 th time Thread : 41 requested CS at Mon Feb 28 23:12:25 2022
+
+3 th time Thread : 49 exit CS at Mon Feb 28 23:12:25 2022
+
+4 th time Thread : 37 in critical section at Mon Feb 28 23:12:25 2022
+
+4 th time Thread : 37 exit CS at Mon Feb 28 23:12:26 2022
+
+8 th time Thread : 22 in critical section at Mon Feb 28 23:12:26 2022
+
+4 th time Thread : 49 requested CS at Mon Feb 28 23:12:27 2022
+
+8 th time Thread : 22 exit CS at Mon Feb 28 23:12:27 2022
+
+7 th time Thread : 26 in critical section at Mon Feb 28 23:12:27 2022
+
+5 th time Thread : 37 requested CS at Mon Feb 28 23:12:28 2022
+
+7 th time Thread : 26 exit CS at Mon Feb 28 23:12:28 2022
+
+10 th time Thread : 13 in critical section at Mon Feb 28 23:12:28 2022
+
+9 th time Thread : 22 requested CS at Mon Feb 28 23:12:29 2022
+
+10 th time Thread : 13 exit CS at Mon Feb 28 23:12:29 2022
+
+9 th time Thread : 50 in critical section at Mon Feb 28 23:12:29 2022
+
+8 th time Thread : 26 requested CS at Mon Feb 28 23:12:30 2022
+
+9 th time Thread : 50 exit CS at Mon Feb 28 23:12:31 2022
+
+5 th time Thread : 46 in critical section at Mon Feb 28 23:12:31 2022
+
+5 th time Thread : 46 exit CS at Mon Feb 28 23:12:32 2022
+
+9 th time Thread : 30 in critical section at Mon Feb 28 23:12:32 2022
+
+10 th time Thread : 50 requested CS at Mon Feb 28 23:12:33 2022
+
+9 th time Thread : 30 exit CS at Mon Feb 28 23:12:33 2022
+
+9 th time Thread : 18 in critical section at Mon Feb 28 23:12:33 2022
+
+6 th time Thread : 46 requested CS at Mon Feb 28 23:12:34 2022
+
+9 th time Thread : 18 exit CS at Mon Feb 28 23:12:34 2022
+
+8 th time Thread : 26 in critical section at Mon Feb 28 23:12:34 2022
+
+10 th time Thread : 30 requested CS at Mon Feb 28 23:12:35 2022
+
+8 th time Thread : 26 exit CS at Mon Feb 28 23:12:35 2022
+
+6 th time Thread : 45 in critical section at Mon Feb 28 23:12:35 2022
+
+10 th time Thread : 18 requested CS at Mon Feb 28 23:12:36 2022
+
+6 th time Thread : 45 exit CS at Mon Feb 28 23:12:36 2022
+
+5 th time Thread : 38 in critical section at Mon Feb 28 23:12:36 2022
+
+9 th time Thread : 26 requested CS at Mon Feb 28 23:12:37 2022
+
+5 th time Thread : 38 exit CS at Mon Feb 28 23:12:38 2022
+
+7 th time Thread : 17 in critical section at Mon Feb 28 23:12:38 2022
+
+7 th time Thread : 45 requested CS at Mon Feb 28 23:12:39 2022
+
+7 th time Thread : 17 exit CS at Mon Feb 28 23:12:39 2022
+
+5 th time Thread : 10 in critical section at Mon Feb 28 23:12:39 2022
+
+6 th time Thread : 38 requested CS at Mon Feb 28 23:12:40 2022
+
+5 th time Thread : 10 exit CS at Mon Feb 28 23:12:40 2022
+
+4 th time Thread : 34 in critical section at Mon Feb 28 23:12:40 2022
+
+8 th time Thread : 17 requested CS at Mon Feb 28 23:12:41 2022
+
+4 th time Thread : 34 exit CS at Mon Feb 28 23:12:41 2022
+
+6 th time Thread : 38 in critical section at Mon Feb 28 23:12:41 2022
+
+6 th time Thread : 10 requested CS at Mon Feb 28 23:12:42 2022
+
+6 th time Thread : 38 exit CS at Mon Feb 28 23:12:42 2022
+
+10 th time Thread : 18 in critical section at Mon Feb 28 23:12:42 2022
+
+5 th time Thread : 34 requested CS at Mon Feb 28 23:12:43 2022
+
+10 th time Thread : 18 exit CS at Mon Feb 28 23:12:44 2022
+
+9 th time Thread : 26 in critical section at Mon Feb 28 23:12:44 2022
+
+7 th time Thread : 38 requested CS at Mon Feb 28 23:12:45 2022
+
+9 th time Thread : 26 exit CS at Mon Feb 28 23:12:45 2022
+
+4 th time Thread : 49 in critical section at Mon Feb 28 23:12:45 2022
+
+4 th time Thread : 49 exit CS at Mon Feb 28 23:12:46 2022
+
+5 th time Thread : 42 in critical section at Mon Feb 28 23:12:46 2022
+
+10 th time Thread : 26 requested CS at Mon Feb 28 23:12:47 2022
+
+5 th time Thread : 42 exit CS at Mon Feb 28 23:12:47 2022
+
+10 th time Thread : 21 in critical section at Mon Feb 28 23:12:47 2022
+
+5 th time Thread : 49 requested CS at Mon Feb 28 23:12:48 2022
+
+10 th time Thread : 21 exit CS at Mon Feb 28 23:12:48 2022
+
+6 th time Thread : 46 in critical section at Mon Feb 28 23:12:48 2022
+
+6 th time Thread : 42 requested CS at Mon Feb 28 23:12:49 2022
+
+6 th time Thread : 46 exit CS at Mon Feb 28 23:12:49 2022
+
+10 th time Thread : 30 in critical section at Mon Feb 28 23:12:49 2022
+
+10 th time Thread : 30 exit CS at Mon Feb 28 23:12:50 2022
+
+7 th time Thread : 14 in critical section at Mon Feb 28 23:12:50 2022
+
+7 th time Thread : 46 requested CS at Mon Feb 28 23:12:51 2022
+
+7 th time Thread : 14 exit CS at Mon Feb 28 23:12:51 2022
+
+10 th time Thread : 26 in critical section at Mon Feb 28 23:12:51 2022
+
+10 th time Thread : 26 exit CS at Mon Feb 28 23:12:53 2022
+
+6 th time Thread : 25 in critical section at Mon Feb 28 23:12:53 2022
+
+8 th time Thread : 14 requested CS at Mon Feb 28 23:12:54 2022
+
+6 th time Thread : 25 exit CS at Mon Feb 28 23:12:54 2022
+
+7 th time Thread : 9 in critical section at Mon Feb 28 23:12:54 2022
+
+7 th time Thread : 9 exit CS at Mon Feb 28 23:12:55 2022
+
+9 th time Thread : 22 in critical section at Mon Feb 28 23:12:55 2022
+
+7 th time Thread : 25 requested CS at Mon Feb 28 23:12:56 2022
+
+9 th time Thread : 22 exit CS at Mon Feb 28 23:12:56 2022
+
+6 th time Thread : 42 in critical section at Mon Feb 28 23:12:56 2022
+
+8 th time Thread : 9 requested CS at Mon Feb 28 23:12:57 2022
+
+6 th time Thread : 42 exit CS at Mon Feb 28 23:12:57 2022
+
+5 th time Thread : 34 in critical section at Mon Feb 28 23:12:57 2022
+
+10 th time Thread : 22 requested CS at Mon Feb 28 23:12:58 2022
+
+5 th time Thread : 34 exit CS at Mon Feb 28 23:12:58 2022
+
+8 th time Thread : 9 in critical section at Mon Feb 28 23:12:58 2022
+
+7 th time Thread : 42 requested CS at Mon Feb 28 23:12:59 2022
+
+8 th time Thread : 9 exit CS at Mon Feb 28 23:12:59 2022
+
+7 th time Thread : 45 in critical section at Mon Feb 28 23:12:59 2022
+
+6 th time Thread : 34 requested CS at Mon Feb 28 23:13:00 2022
+
+7 th time Thread : 45 exit CS at Mon Feb 28 23:13:00 2022
+
+7 th time Thread : 25 in critical section at Mon Feb 28 23:13:00 2022
+
+9 th time Thread : 9 requested CS at Mon Feb 28 23:13:01 2022
+
+7 th time Thread : 25 exit CS at Mon Feb 28 23:13:02 2022
+
+9 th time Thread : 9 in critical section at Mon Feb 28 23:13:02 2022
+
+8 th time Thread : 45 requested CS at Mon Feb 28 23:13:03 2022
+
+9 th time Thread : 9 exit CS at Mon Feb 28 23:13:03 2022
+
+6 th time Thread : 33 in critical section at Mon Feb 28 23:13:03 2022
+
+8 th time Thread : 25 requested CS at Mon Feb 28 23:13:04 2022
+
+6 th time Thread : 33 exit CS at Mon Feb 28 23:13:04 2022
+
+7 th time Thread : 2 in critical section at Mon Feb 28 23:13:04 2022
+
+10 th time Thread : 9 requested CS at Mon Feb 28 23:13:05 2022
+
+7 th time Thread : 2 exit CS at Mon Feb 28 23:13:05 2022
+
+8 th time Thread : 17 in critical section at Mon Feb 28 23:13:05 2022
+
+7 th time Thread : 33 requested CS at Mon Feb 28 23:13:06 2022
+
+8 th time Thread : 17 exit CS at Mon Feb 28 23:13:06 2022
+
+5 th time Thread : 37 in critical section at Mon Feb 28 23:13:06 2022
+
+8 th time Thread : 2 requested CS at Mon Feb 28 23:13:07 2022
+
+5 th time Thread : 37 exit CS at Mon Feb 28 23:13:07 2022
+
+8 th time Thread : 2 in critical section at Mon Feb 28 23:13:07 2022
+
+9 th time Thread : 17 requested CS at Mon Feb 28 23:13:08 2022
+
+8 th time Thread : 2 exit CS at Mon Feb 28 23:13:08 2022
+
+8 th time Thread : 14 in critical section at Mon Feb 28 23:13:08 2022
+
+6 th time Thread : 37 requested CS at Mon Feb 28 23:13:09 2022
+
+8 th time Thread : 14 exit CS at Mon Feb 28 23:13:09 2022
+
+7 th time Thread : 42 in critical section at Mon Feb 28 23:13:09 2022
+
+9 th time Thread : 2 requested CS at Mon Feb 28 23:13:10 2022
+
+7 th time Thread : 42 exit CS at Mon Feb 28 23:13:10 2022
+
+8 th time Thread : 25 in critical section at Mon Feb 28 23:13:10 2022
+
+9 th time Thread : 14 requested CS at Mon Feb 28 23:13:11 2022
+
+8 th time Thread : 25 exit CS at Mon Feb 28 23:13:12 2022
+
+7 th time Thread : 46 in critical section at Mon Feb 28 23:13:12 2022
+
+8 th time Thread : 42 requested CS at Mon Feb 28 23:13:13 2022
+
+7 th time Thread : 46 exit CS at Mon Feb 28 23:13:13 2022
+
+9 th time Thread : 2 in critical section at Mon Feb 28 23:13:13 2022
+
+9 th time Thread : 25 requested CS at Mon Feb 28 23:13:14 2022
+
+9 th time Thread : 2 exit CS at Mon Feb 28 23:13:14 2022
+
+9 th time Thread : 14 in critical section at Mon Feb 28 23:13:14 2022
+
+8 th time Thread : 46 requested CS at Mon Feb 28 23:13:15 2022
+
+9 th time Thread : 14 exit CS at Mon Feb 28 23:13:15 2022
+
+6 th time Thread : 37 in critical section at Mon Feb 28 23:13:15 2022
+
+10 th time Thread : 2 requested CS at Mon Feb 28 23:13:16 2022
+
+6 th time Thread : 37 exit CS at Mon Feb 28 23:13:16 2022
+
+10 th time Thread : 9 in critical section at Mon Feb 28 23:13:16 2022
+
+10 th time Thread : 14 requested CS at Mon Feb 28 23:13:17 2022
+
+10 th time Thread : 9 exit CS at Mon Feb 28 23:13:17 2022
+
+2 th time Thread : 5 in critical section at Mon Feb 28 23:13:17 2022
+
+7 th time Thread : 37 requested CS at Mon Feb 28 23:13:18 2022
+
+2 th time Thread : 5 exit CS at Mon Feb 28 23:13:18 2022
+
+5 th time Thread : 49 in critical section at Mon Feb 28 23:13:18 2022
+
+5 th time Thread : 49 exit CS at Mon Feb 28 23:13:19 2022
+
+6 th time Thread : 10 in critical section at Mon Feb 28 23:13:19 2022
+
+3 th time Thread : 5 requested CS at Mon Feb 28 23:13:20 2022
+
+6 th time Thread : 10 exit CS at Mon Feb 28 23:13:21 2022
+
+6 th time Thread : 34 in critical section at Mon Feb 28 23:13:21 2022
+
+6 th time Thread : 49 requested CS at Mon Feb 28 23:13:22 2022
+
+6 th time Thread : 34 exit CS at Mon Feb 28 23:13:22 2022
+
+7 th time Thread : 37 in critical section at Mon Feb 28 23:13:22 2022
+
+7 th time Thread : 10 requested CS at Mon Feb 28 23:13:23 2022
+
+7 th time Thread : 37 exit CS at Mon Feb 28 23:13:23 2022
+
+9 th time Thread : 17 in critical section at Mon Feb 28 23:13:23 2022
+
+7 th time Thread : 34 requested CS at Mon Feb 28 23:13:24 2022
+
+9 th time Thread : 17 exit CS at Mon Feb 28 23:13:24 2022
+
+3 th time Thread : 5 in critical section at Mon Feb 28 23:13:24 2022
+
+8 th time Thread : 37 requested CS at Mon Feb 28 23:13:25 2022
+
+3 th time Thread : 5 exit CS at Mon Feb 28 23:13:25 2022
+
+7 th time Thread : 38 in critical section at Mon Feb 28 23:13:25 2022
+
+10 th time Thread : 17 requested CS at Mon Feb 28 23:13:26 2022
+
+7 th time Thread : 38 exit CS at Mon Feb 28 23:13:26 2022
+
+8 th time Thread : 45 in critical section at Mon Feb 28 23:13:26 2022
+
+4 th time Thread : 5 requested CS at Mon Feb 28 23:13:27 2022
+
+8 th time Thread : 45 exit CS at Mon Feb 28 23:13:27 2022
+
+8 th time Thread : 46 in critical section at Mon Feb 28 23:13:27 2022
+
+8 th time Thread : 38 requested CS at Mon Feb 28 23:13:28 2022
+
+8 th time Thread : 46 exit CS at Mon Feb 28 23:13:28 2022
+
+6 th time Thread : 29 in critical section at Mon Feb 28 23:13:28 2022
+
+9 th time Thread : 45 requested CS at Mon Feb 28 23:13:29 2022
+
+6 th time Thread : 29 exit CS at Mon Feb 28 23:13:29 2022
+
+10 th time Thread : 2 in critical section at Mon Feb 28 23:13:29 2022
+
+9 th time Thread : 46 requested CS at Mon Feb 28 23:13:30 2022
+
+10 th time Thread : 2 exit CS at Mon Feb 28 23:13:31 2022
+
+7 th time Thread : 33 in critical section at Mon Feb 28 23:13:31 2022
+
+7 th time Thread : 29 requested CS at Mon Feb 28 23:13:32 2022
+
+7 th time Thread : 33 exit CS at Mon Feb 28 23:13:32 2022
+
+10 th time Thread : 17 in critical section at Mon Feb 28 23:13:32 2022
+
+9 th time Thread : 46 in critical section at Mon Feb 28 23:13:33 2022
+
+10 th time Thread : 17 exit CS at Mon Feb 28 23:13:33 2022
+
+8 th time Thread : 33 requested CS at Mon Feb 28 23:13:34 2022
+
+9 th time Thread : 46 exit CS at Mon Feb 28 23:13:34 2022
+
+8 th time Thread : 37 in critical section at Mon Feb 28 23:13:34 2022
+
+8 th time Thread : 37 exit CS at Mon Feb 28 23:13:35 2022
+
+7 th time Thread : 10 in critical section at Mon Feb 28 23:13:35 2022
+
+10 th time Thread : 46 requested CS at Mon Feb 28 23:13:36 2022
+
+7 th time Thread : 10 exit CS at Mon Feb 28 23:13:36 2022
+
+10 th time Thread : 50 in critical section at Mon Feb 28 23:13:36 2022
+
+9 th time Thread : 37 requested CS at Mon Feb 28 23:13:37 2022
+
+10 th time Thread : 50 exit CS at Mon Feb 28 23:13:37 2022
+
+10 th time Thread : 6 in critical section at Mon Feb 28 23:13:37 2022
+
+8 th time Thread : 10 requested CS at Mon Feb 28 23:13:38 2022
+
+10 th time Thread : 6 exit CS at Mon Feb 28 23:13:38 2022
+
+8 th time Thread : 38 in critical section at Mon Feb 28 23:13:38 2022
+
+8 th time Thread : 38 exit CS at Mon Feb 28 23:13:39 2022
+
+5 th time Thread : 41 in critical section at Mon Feb 28 23:13:39 2022
+
+5 th time Thread : 41 exit CS at Mon Feb 28 23:13:40 2022
+
+10 th time Thread : 22 in critical section at Mon Feb 28 23:13:40 2022
+
+9 th time Thread : 38 requested CS at Mon Feb 28 23:13:41 2022
+
+10 th time Thread : 22 exit CS at Mon Feb 28 23:13:41 2022
+
+4 th time Thread : 5 in critical section at Mon Feb 28 23:13:41 2022
+
+6 th time Thread : 41 requested CS at Mon Feb 28 23:13:42 2022
+
+4 th time Thread : 5 exit CS at Mon Feb 28 23:13:42 2022
+
+6 th time Thread : 49 in critical section at Mon Feb 28 23:13:42 2022
+
+6 th time Thread : 49 exit CS at Mon Feb 28 23:13:43 2022
+
+8 th time Thread : 33 in critical section at Mon Feb 28 23:13:43 2022
+
+5 th time Thread : 5 requested CS at Mon Feb 28 23:13:44 2022
+
+8 th time Thread : 33 exit CS at Mon Feb 28 23:13:45 2022
+
+9 th time Thread : 37 in critical section at Mon Feb 28 23:13:45 2022
+
+7 th time Thread : 49 requested CS at Mon Feb 28 23:13:46 2022
+
+9 th time Thread : 37 exit CS at Mon Feb 28 23:13:46 2022
+
+10 th time Thread : 46 in critical section at Mon Feb 28 23:13:46 2022
+
+9 th time Thread : 33 requested CS at Mon Feb 28 23:13:47 2022
+
+10 th time Thread : 46 exit CS at Mon Feb 28 23:13:47 2022
+
+5 th time Thread : 5 in critical section at Mon Feb 28 23:13:47 2022
+
+10 th time Thread : 37 requested CS at Mon Feb 28 23:13:48 2022
+
+5 th time Thread : 5 exit CS at Mon Feb 28 23:13:48 2022
+
+9 th time Thread : 25 in critical section at Mon Feb 28 23:13:48 2022
+
+9 th time Thread : 25 exit CS at Mon Feb 28 23:13:49 2022
+
+7 th time Thread : 34 in critical section at Mon Feb 28 23:13:49 2022
+
+6 th time Thread : 5 requested CS at Mon Feb 28 23:13:50 2022
+
+7 th time Thread : 34 exit CS at Mon Feb 28 23:13:50 2022
+
+9 th time Thread : 45 in critical section at Mon Feb 28 23:13:50 2022
+
+10 th time Thread : 25 requested CS at Mon Feb 28 23:13:51 2022
+
+9 th time Thread : 45 exit CS at Mon Feb 28 23:13:51 2022
+
+9 th time Thread : 33 in critical section at Mon Feb 28 23:13:51 2022
+
+8 th time Thread : 34 requested CS at Mon Feb 28 23:13:52 2022
+
+9 th time Thread : 33 exit CS at Mon Feb 28 23:13:52 2022
+
+10 th time Thread : 37 in critical section at Mon Feb 28 23:13:52 2022
+
+10 th time Thread : 45 requested CS at Mon Feb 28 23:13:53 2022
+
+10 th time Thread : 37 exit CS at Mon Feb 28 23:13:53 2022
+
+6 th time Thread : 5 in critical section at Mon Feb 28 23:13:53 2022
+
+10 th time Thread : 33 requested CS at Mon Feb 28 23:13:54 2022
+
+6 th time Thread : 5 exit CS at Mon Feb 28 23:13:54 2022
+
+10 th time Thread : 45 in critical section at Mon Feb 28 23:13:54 2022
+
+10 th time Thread : 45 exit CS at Mon Feb 28 23:13:55 2022
+
+10 th time Thread : 14 in critical section at Mon Feb 28 23:13:55 2022
+
+7 th time Thread : 5 requested CS at Mon Feb 28 23:13:56 2022
+
+10 th time Thread : 14 exit CS at Mon Feb 28 23:13:56 2022
+
+8 th time Thread : 10 in critical section at Mon Feb 28 23:13:56 2022
+
+8 th time Thread : 10 exit CS at Mon Feb 28 23:13:57 2022
+
+6 th time Thread : 41 in critical section at Mon Feb 28 23:13:57 2022
+
+6 th time Thread : 41 exit CS at Mon Feb 28 23:13:58 2022
+
+7 th time Thread : 29 in critical section at Mon Feb 28 23:13:58 2022
+
+9 th time Thread : 10 requested CS at Mon Feb 28 23:13:59 2022
+
+7 th time Thread : 29 exit CS at Mon Feb 28 23:13:59 2022
+
+7 th time Thread : 49 in critical section at Mon Feb 28 23:13:59 2022
+
+7 th time Thread : 41 requested CS at Mon Feb 28 23:14:00 2022
+
+7 th time Thread : 49 exit CS at Mon Feb 28 23:14:00 2022
+
+9 th time Thread : 10 in critical section at Mon Feb 28 23:14:00 2022
+
+8 th time Thread : 29 requested CS at Mon Feb 28 23:14:01 2022
+
+9 th time Thread : 10 exit CS at Mon Feb 28 23:14:01 2022
+
+8 th time Thread : 42 in critical section at Mon Feb 28 23:14:01 2022
+
+8 th time Thread : 49 requested CS at Mon Feb 28 23:14:02 2022
+
+8 th time Thread : 42 exit CS at Mon Feb 28 23:14:02 2022
+
+8 th time Thread : 29 in critical section at Mon Feb 28 23:14:02 2022
+
+10 th time Thread : 10 requested CS at Mon Feb 28 23:14:03 2022
+
+8 th time Thread : 29 exit CS at Mon Feb 28 23:14:03 2022
+
+8 th time Thread : 34 in critical section at Mon Feb 28 23:14:03 2022
+
+9 th time Thread : 42 requested CS at Mon Feb 28 23:14:04 2022
+
+8 th time Thread : 34 exit CS at Mon Feb 28 23:14:04 2022
+
+10 th time Thread : 10 in critical section at Mon Feb 28 23:14:04 2022
+
+9 th time Thread : 29 requested CS at Mon Feb 28 23:14:05 2022
+
+10 th time Thread : 10 exit CS at Mon Feb 28 23:14:05 2022
+
+10 th time Thread : 25 in critical section at Mon Feb 28 23:14:05 2022
+
+9 th time Thread : 34 requested CS at Mon Feb 28 23:14:06 2022
+
+10 th time Thread : 25 exit CS at Mon Feb 28 23:14:06 2022
+
+7 th time Thread : 5 in critical section at Mon Feb 28 23:14:06 2022
+
+7 th time Thread : 5 exit CS at Mon Feb 28 23:14:07 2022
+
+9 th time Thread : 38 in critical section at Mon Feb 28 23:14:07 2022
+
+9 th time Thread : 38 exit CS at Mon Feb 28 23:14:08 2022
+
+7 th time Thread : 41 in critical section at Mon Feb 28 23:14:08 2022
+
+8 th time Thread : 5 requested CS at Mon Feb 28 23:14:09 2022
+
+7 th time Thread : 41 exit CS at Mon Feb 28 23:14:09 2022
+
+9 th time Thread : 42 in critical section at Mon Feb 28 23:14:09 2022
+
+9 th time Thread : 42 exit CS at Mon Feb 28 23:14:10 2022
+
+8 th time Thread : 5 in critical section at Mon Feb 28 23:14:10 2022
+
+10 th time Thread : 38 requested CS at Mon Feb 28 23:14:10 2022
+
+8 th time Thread : 41 requested CS at Mon Feb 28 23:14:11 2022
+
+8 th time Thread : 5 exit CS at Mon Feb 28 23:14:11 2022
+
+9 th time Thread : 29 in critical section at Mon Feb 28 23:14:11 2022
+
+10 th time Thread : 42 requested CS at Mon Feb 28 23:14:12 2022
+
+9 th time Thread : 29 exit CS at Mon Feb 28 23:14:12 2022
+
+10 th time Thread : 33 in critical section at Mon Feb 28 23:14:12 2022
+
+10 th time Thread : 33 exit CS at Mon Feb 28 23:14:13 2022
+
+10 th time Thread : 38 in critical section at Mon Feb 28 23:14:13 2022
+
+9 th time Thread : 5 requested CS at Mon Feb 28 23:14:13 2022
+
+10 th time Thread : 29 requested CS at Mon Feb 28 23:14:14 2022
+
+10 th time Thread : 38 exit CS at Mon Feb 28 23:14:14 2022
+
+9 th time Thread : 5 in critical section at Mon Feb 28 23:14:14 2022
+
+9 th time Thread : 5 exit CS at Mon Feb 28 23:14:15 2022
+
+9 th time Thread : 34 in critical section at Mon Feb 28 23:14:15 2022
+
+9 th time Thread : 34 exit CS at Mon Feb 28 23:14:16 2022
+
+10 th time Thread : 29 in critical section at Mon Feb 28 23:14:16 2022
+
+10 th time Thread : 5 requested CS at Mon Feb 28 23:14:17 2022
+
+10 th time Thread : 29 exit CS at Mon Feb 28 23:14:17 2022
+
+10 th time Thread : 5 in critical section at Mon Feb 28 23:14:17 2022
+
+10 th time Thread : 34 requested CS at Mon Feb 28 23:14:18 2022
+
+10 th time Thread : 5 exit CS at Mon Feb 28 23:14:18 2022
+
+8 th time Thread : 49 in critical section at Mon Feb 28 23:14:18 2022
+
+8 th time Thread : 49 exit CS at Mon Feb 28 23:14:19 2022
+
+8 th time Thread : 41 in critical section at Mon Feb 28 23:14:19 2022
+
+8 th time Thread : 41 exit CS at Mon Feb 28 23:14:20 2022
+
+10 th time Thread : 42 in critical section at Mon Feb 28 23:14:20 2022
+
+10 th time Thread : 42 exit CS at Mon Feb 28 23:14:21 2022
+
+10 th time Thread : 34 in critical section at Mon Feb 28 23:14:21 2022
+
+9 th time Thread : 49 requested CS at Mon Feb 28 23:14:21 2022
+
+9 th time Thread : 41 requested CS at Mon Feb 28 23:14:22 2022
+
+9 th time Thread : 49 in critical section at Mon Feb 28 23:14:22 2022
+
+10 th time Thread : 34 exit CS at Mon Feb 28 23:14:22 2022
+
+9 th time Thread : 49 exit CS at Mon Feb 28 23:14:23 2022
+
+9 th time Thread : 41 in critical section at Mon Feb 28 23:14:23 2022
+
+9 th time Thread : 41 exit CS at Mon Feb 28 23:14:24 2022
+
+10 th time Thread : 49 requested CS at Mon Feb 28 23:14:25 2022
+
+10 th time Thread : 49 in critical section at Mon Feb 28 23:14:25 2022
+
+10 th time Thread : 41 requested CS at Mon Feb 28 23:14:26 2022
+
+10 th time Thread : 41 in critical section at Mon Feb 28 23:14:26 2022
+
+10 th time Thread : 49 exit CS at Mon Feb 28 23:14:26 2022
+
+10 th time Thread : 41 exit CS at Mon Feb 28 23:14:27 2022
+

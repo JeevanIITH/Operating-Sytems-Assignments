@@ -1,0 +1,6 @@
+tas Avg : 1.88092seconds
+Worst case waiting time : 7.04075
+cas Avg : 1.61548seconds
+Worst case waiting time : 6.03789
+bounded waiting cas Avg : 1.949seconds
+Worst case waiting time : 6.03801

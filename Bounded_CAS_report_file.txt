@@ -1,0 +1,65 @@
+Read values are :
+N : 10, K : 10, t1 : 1, t2 : 2
+bounded waiting cas Avg : 6.82708seconds
+Worst case waiting time : 22.3995
+Read values are :
+N : 10, K : 10, t1 : 1, t2 : 2
+bounded waiting cas Avg : 6.70552seconds
+Worst case waiting time : 23.6376
+
+Read values are :
+N : 10, K : 10, t1 : 1, t2 : 2
+bounded waiting cas Avg : 6.72958seconds
+Worst case waiting time : 16.4428
+Read values are :
+N : 10, K : 10, t1 : 1, t2 : 2
+bounded waiting cas Avg : 6.5095seconds
+Worst case waiting time : 27.3252
+Read values are :
+N : 10, K : 10, t1 : 1, t2 : 2
+bounded waiting cas Avg : 6.3946seconds
+Worst case waiting time : 15.2613
+Read values are :
+N : 20, K : 10, t1 : 1, t2 : 2
+Read values are :
+N : 20, K : 10, t1 : 1, t2 : 2
+bounded waiting cas Avg : 17.2272seconds
+Worst case waiting time : 70.6174
+Read values are :
+N : 20, K : 10, t1 : 1, t2 : 2
+bounded waiting cas Avg : 16.5525seconds
+Worst case waiting time : 49.6332
+Read values are :
+N : 20, K : 10, t1 : 1, t2 : 2
+bounded waiting cas Avg : 16.2683seconds
+Worst case waiting time : 43.4057
+Read values are :
+N : 30, K : 10, t1 : 1, t2 : 2
+bounded waiting cas Avg : 29.0689seconds
+Worst case waiting time : 65.5242
+Read values are :
+N : 30, K : 10, t1 : 1, t2 : 2
+bounded waiting cas Avg : 26.7748seconds
+Worst case waiting time : 67.0804
+Read values are :
+N : 30, K : 10, t1 : 1, t2 : 2
+bounded waiting cas Avg : 29.4501seconds
+Worst case waiting time : 71.4454
+Read values are :
+N : 40, K : 10, t1 : 1, t2 : 2
+bounded waiting cas Avg : 40.2732seconds
+Worst case waiting time : 127.627
+Read values are :
+N : 40, K : 10, t1 : 1, t2 : 2
+bounded waiting cas Avg : 40.0862seconds
+Worst case waiting time : 73.6684
+Read values are :
+N : 40, K : 10, t1 : 1, t2 : 2
+Read values are :
+N : 40, K : 10, t1 : 1, t2 : 2
+bounded waiting cas Avg : 41.739seconds
+Worst case waiting time : 121.434
+Read values are :
+N : 50, K : 10, t1 : 1, t2 : 2
+bounded waiting cas Avg : 55.4971seconds
+Worst case waiting time : 117.742
